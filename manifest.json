@@ -1,5 +1,5 @@
 {
-  "source_base_path": "D:/projects/work/unity/UR-Visualization/UR Visualization/Documentation",
+  "source_base_path": "D:/projects/work/unity/UR-Visualization/Documentation",
   "xrefmap": "xrefmap.yml",
   "files": [
     {
@@ -644,9 +644,6 @@
       "type": "Toc",
       "source_relative_path": "api/toc.yml",
       "output": {
-        ".html": {
-          "relative_path": "api/toc.html"
-        },
         ".json": {
           "relative_path": "api/toc.json"
         }
@@ -697,9 +694,6 @@
       "type": "Toc",
       "source_relative_path": "manual/toc.yml",
       "output": {
-        ".html": {
-          "relative_path": "manual/toc.html"
-        },
         ".json": {
           "relative_path": "manual/toc.json"
         }
@@ -710,9 +704,6 @@
       "type": "Toc",
       "source_relative_path": "toc.yml",
       "output": {
-        ".html": {
-          "relative_path": "toc.html"
-        },
         ".json": {
           "relative_path": "toc.json"
         }
