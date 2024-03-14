@@ -1,0 +1,2133 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: Global
+  name: ''
+  href: api/Global.html
+- uid: Global.AdjustTimeScale
+  name: AdjustTimeScale
+  href: api/Global.AdjustTimeScale.html
+  commentId: T:Global.AdjustTimeScale
+  fullName: AdjustTimeScale
+  nameWithType: AdjustTimeScale
+- uid: Global.AnySerializableDictionaryPropertyDrawer
+  name: AnySerializableDictionaryPropertyDrawer
+  href: api/Global.AnySerializableDictionaryPropertyDrawer.html
+  commentId: T:Global.AnySerializableDictionaryPropertyDrawer
+  fullName: AnySerializableDictionaryPropertyDrawer
+  nameWithType: AnySerializableDictionaryPropertyDrawer
+- uid: Global.AnySerializableDictionaryStoragePropertyDrawer
+  name: AnySerializableDictionaryStoragePropertyDrawer
+  href: api/Global.AnySerializableDictionaryStoragePropertyDrawer.html
+  commentId: T:Global.AnySerializableDictionaryStoragePropertyDrawer
+  fullName: AnySerializableDictionaryStoragePropertyDrawer
+  nameWithType: AnySerializableDictionaryStoragePropertyDrawer
+- uid: Global.ColorArrayStorage
+  name: ColorArrayStorage
+  href: api/Global.ColorArrayStorage.html
+  commentId: T:Global.ColorArrayStorage
+  fullName: ColorArrayStorage
+  nameWithType: ColorArrayStorage
+- uid: Global.MyClass
+  name: MyClass
+  href: api/Global.MyClass.html
+  commentId: T:Global.MyClass
+  fullName: MyClass
+  nameWithType: MyClass
+- uid: Global.MyClass.i
+  name: i
+  href: api/Global.MyClass.html#Global_MyClass_i
+  commentId: F:Global.MyClass.i
+  fullName: MyClass.i
+  nameWithType: MyClass.i
+- uid: Global.MyClass.str
+  name: str
+  href: api/Global.MyClass.html#Global_MyClass_str
+  commentId: F:Global.MyClass.str
+  fullName: MyClass.str
+  nameWithType: MyClass.str
+- uid: Global.ObjectColorDictionary
+  name: ObjectColorDictionary
+  href: api/Global.ObjectColorDictionary.html
+  commentId: T:Global.ObjectColorDictionary
+  fullName: ObjectColorDictionary
+  nameWithType: ObjectColorDictionary
+- uid: Global.ProximityActivate
+  name: ProximityActivate
+  href: api/Global.ProximityActivate.html
+  commentId: T:Global.ProximityActivate
+  fullName: ProximityActivate
+  nameWithType: ProximityActivate
+- uid: Global.ProximityActivate.activator
+  name: activator
+  href: api/Global.ProximityActivate.html#Global_ProximityActivate_activator
+  commentId: F:Global.ProximityActivate.activator
+  fullName: ProximityActivate.activator
+  nameWithType: ProximityActivate.activator
+- uid: Global.ProximityActivate.activeState
+  name: activeState
+  href: api/Global.ProximityActivate.html#Global_ProximityActivate_activeState
+  commentId: F:Global.ProximityActivate.activeState
+  fullName: ProximityActivate.activeState
+  nameWithType: ProximityActivate.activeState
+- uid: Global.ProximityActivate.distance
+  name: distance
+  href: api/Global.ProximityActivate.html#Global_ProximityActivate_distance
+  commentId: F:Global.ProximityActivate.distance
+  fullName: ProximityActivate.distance
+  nameWithType: ProximityActivate.distance
+- uid: Global.ProximityActivate.distanceActivator
+  name: distanceActivator
+  href: api/Global.ProximityActivate.html#Global_ProximityActivate_distanceActivator
+  commentId: F:Global.ProximityActivate.distanceActivator
+  fullName: ProximityActivate.distanceActivator
+  nameWithType: ProximityActivate.distanceActivator
+- uid: Global.ProximityActivate.enableInfoPanel
+  name: enableInfoPanel
+  href: api/Global.ProximityActivate.html#Global_ProximityActivate_enableInfoPanel
+  commentId: F:Global.ProximityActivate.enableInfoPanel
+  fullName: ProximityActivate.enableInfoPanel
+  nameWithType: ProximityActivate.enableInfoPanel
+- uid: Global.ProximityActivate.infoIcon
+  name: infoIcon
+  href: api/Global.ProximityActivate.html#Global_ProximityActivate_infoIcon
+  commentId: F:Global.ProximityActivate.infoIcon
+  fullName: ProximityActivate.infoIcon
+  nameWithType: ProximityActivate.infoIcon
+- uid: Global.ProximityActivate.infoPanel
+  name: infoPanel
+  href: api/Global.ProximityActivate.html#Global_ProximityActivate_infoPanel
+  commentId: F:Global.ProximityActivate.infoPanel
+  fullName: ProximityActivate.infoPanel
+  nameWithType: ProximityActivate.infoPanel
+- uid: Global.ProximityActivate.lookAtActivator
+  name: lookAtActivator
+  href: api/Global.ProximityActivate.html#Global_ProximityActivate_lookAtActivator
+  commentId: F:Global.ProximityActivate.lookAtActivator
+  fullName: ProximityActivate.lookAtActivator
+  nameWithType: ProximityActivate.lookAtActivator
+- uid: Global.ProximityActivate.lookAtCamera
+  name: lookAtCamera
+  href: api/Global.ProximityActivate.html#Global_ProximityActivate_lookAtCamera
+  commentId: F:Global.ProximityActivate.lookAtCamera
+  fullName: ProximityActivate.lookAtCamera
+  nameWithType: ProximityActivate.lookAtCamera
+- uid: Global.ProximityActivate.target
+  name: target
+  href: api/Global.ProximityActivate.html#Global_ProximityActivate_target
+  commentId: F:Global.ProximityActivate.target
+  fullName: ProximityActivate.target
+  nameWithType: ProximityActivate.target
+- uid: Global.QuaternionMyClassDictionary
+  name: QuaternionMyClassDictionary
+  href: api/Global.QuaternionMyClassDictionary.html
+  commentId: T:Global.QuaternionMyClassDictionary
+  fullName: QuaternionMyClassDictionary
+  nameWithType: QuaternionMyClassDictionary
+- uid: Global.RampAsset
+  name: RampAsset
+  href: api/Global.RampAsset.html
+  commentId: T:Global.RampAsset
+  fullName: RampAsset
+  nameWithType: RampAsset
+- uid: Global.RampAsset.gradient
+  name: gradient
+  href: api/Global.RampAsset.html#Global_RampAsset_gradient
+  commentId: F:Global.RampAsset.gradient
+  fullName: RampAsset.gradient
+  nameWithType: RampAsset.gradient
+- uid: Global.RampAsset.overwriteExisting
+  name: overwriteExisting
+  href: api/Global.RampAsset.html#Global_RampAsset_overwriteExisting
+  commentId: F:Global.RampAsset.overwriteExisting
+  fullName: RampAsset.overwriteExisting
+  nameWithType: RampAsset.overwriteExisting
+- uid: Global.RampAsset.size
+  name: size
+  href: api/Global.RampAsset.html#Global_RampAsset_size
+  commentId: F:Global.RampAsset.size
+  fullName: RampAsset.size
+  nameWithType: RampAsset.size
+- uid: Global.RampAsset.up
+  name: up
+  href: api/Global.RampAsset.html#Global_RampAsset_up
+  commentId: F:Global.RampAsset.up
+  fullName: RampAsset.up
+  nameWithType: RampAsset.up
+- uid: Global.RampAssetEditor
+  name: RampAssetEditor
+  href: api/Global.RampAssetEditor.html
+  commentId: T:Global.RampAssetEditor
+  fullName: RampAssetEditor
+  nameWithType: RampAssetEditor
+- uid: Global.RampAssetEditor.OnInspectorGUI
+  name: OnInspectorGUI()
+  href: api/Global.RampAssetEditor.html#Global_RampAssetEditor_OnInspectorGUI
+  commentId: M:Global.RampAssetEditor.OnInspectorGUI
+  fullName: RampAssetEditor.OnInspectorGUI()
+  nameWithType: RampAssetEditor.OnInspectorGUI()
+- uid: Global.RampAssetEditor.OnInspectorGUI*
+  name: OnInspectorGUI
+  href: api/Global.RampAssetEditor.html#Global_RampAssetEditor_OnInspectorGUI_
+  commentId: Overload:Global.RampAssetEditor.OnInspectorGUI
+  isSpec: "True"
+  fullName: RampAssetEditor.OnInspectorGUI
+  nameWithType: RampAssetEditor.OnInspectorGUI
+- uid: Global.Readme
+  name: Readme
+  href: api/Global.Readme.html
+  commentId: T:Global.Readme
+  fullName: Readme
+  nameWithType: Readme
+- uid: Global.Readme.Section
+  name: Readme.Section
+  href: api/Global.Readme.Section.html
+  commentId: T:Global.Readme.Section
+  fullName: Readme.Section
+  nameWithType: Readme.Section
+- uid: Global.Readme.Section.heading
+  name: heading
+  href: api/Global.Readme.Section.html#Global_Readme_Section_heading
+  commentId: F:Global.Readme.Section.heading
+  fullName: Readme.Section.heading
+  nameWithType: Readme.Section.heading
+- uid: Global.Readme.Section.linkText
+  name: linkText
+  href: api/Global.Readme.Section.html#Global_Readme_Section_linkText
+  commentId: F:Global.Readme.Section.linkText
+  fullName: Readme.Section.linkText
+  nameWithType: Readme.Section.linkText
+- uid: Global.Readme.Section.text
+  name: text
+  href: api/Global.Readme.Section.html#Global_Readme_Section_text
+  commentId: F:Global.Readme.Section.text
+  fullName: Readme.Section.text
+  nameWithType: Readme.Section.text
+- uid: Global.Readme.Section.url
+  name: url
+  href: api/Global.Readme.Section.html#Global_Readme_Section_url
+  commentId: F:Global.Readme.Section.url
+  fullName: Readme.Section.url
+  nameWithType: Readme.Section.url
+- uid: Global.Readme.icon
+  name: icon
+  href: api/Global.Readme.html#Global_Readme_icon
+  commentId: F:Global.Readme.icon
+  fullName: Readme.icon
+  nameWithType: Readme.icon
+- uid: Global.Readme.loadedLayout
+  name: loadedLayout
+  href: api/Global.Readme.html#Global_Readme_loadedLayout
+  commentId: F:Global.Readme.loadedLayout
+  fullName: Readme.loadedLayout
+  nameWithType: Readme.loadedLayout
+- uid: Global.Readme.sections
+  name: sections
+  href: api/Global.Readme.html#Global_Readme_sections
+  commentId: F:Global.Readme.sections
+  fullName: Readme.sections
+  nameWithType: Readme.sections
+- uid: Global.Readme.title
+  name: title
+  href: api/Global.Readme.html#Global_Readme_title
+  commentId: F:Global.Readme.title
+  fullName: Readme.title
+  nameWithType: Readme.title
+- uid: Global.ReadmeEditor
+  name: ReadmeEditor
+  href: api/Global.ReadmeEditor.html
+  commentId: T:Global.ReadmeEditor
+  fullName: ReadmeEditor
+  nameWithType: ReadmeEditor
+- uid: Global.ReadmeEditor.OnHeaderGUI
+  name: OnHeaderGUI()
+  href: api/Global.ReadmeEditor.html#Global_ReadmeEditor_OnHeaderGUI
+  commentId: M:Global.ReadmeEditor.OnHeaderGUI
+  fullName: ReadmeEditor.OnHeaderGUI()
+  nameWithType: ReadmeEditor.OnHeaderGUI()
+- uid: Global.ReadmeEditor.OnHeaderGUI*
+  name: OnHeaderGUI
+  href: api/Global.ReadmeEditor.html#Global_ReadmeEditor_OnHeaderGUI_
+  commentId: Overload:Global.ReadmeEditor.OnHeaderGUI
+  isSpec: "True"
+  fullName: ReadmeEditor.OnHeaderGUI
+  nameWithType: ReadmeEditor.OnHeaderGUI
+- uid: Global.ReadmeEditor.OnInspectorGUI
+  name: OnInspectorGUI()
+  href: api/Global.ReadmeEditor.html#Global_ReadmeEditor_OnInspectorGUI
+  commentId: M:Global.ReadmeEditor.OnInspectorGUI
+  fullName: ReadmeEditor.OnInspectorGUI()
+  nameWithType: ReadmeEditor.OnInspectorGUI()
+- uid: Global.ReadmeEditor.OnInspectorGUI*
+  name: OnInspectorGUI
+  href: api/Global.ReadmeEditor.html#Global_ReadmeEditor_OnInspectorGUI_
+  commentId: Overload:Global.ReadmeEditor.OnInspectorGUI
+  isSpec: "True"
+  fullName: ReadmeEditor.OnInspectorGUI
+  nameWithType: ReadmeEditor.OnInspectorGUI
+- uid: Global.SerializableDictionary
+  name: SerializableDictionary
+  href: api/Global.SerializableDictionary.html
+  commentId: T:Global.SerializableDictionary
+  fullName: SerializableDictionary
+  nameWithType: SerializableDictionary
+- uid: Global.SerializableDictionary.Storage`1
+  name: SerializableDictionary.Storage<T>
+  href: api/Global.SerializableDictionary.Storage-1.html
+  commentId: T:Global.SerializableDictionary.Storage`1
+  name.vb: SerializableDictionary.Storage(Of T)
+  fullName: SerializableDictionary.Storage<T>
+  fullName.vb: SerializableDictionary.Storage(Of T)
+  nameWithType: SerializableDictionary.Storage<T>
+  nameWithType.vb: SerializableDictionary.Storage(Of T)
+- uid: Global.SerializableDictionary.Storage`1.data
+  name: data
+  href: api/Global.SerializableDictionary.Storage-1.html#Global_SerializableDictionary_Storage_1_data
+  commentId: F:Global.SerializableDictionary.Storage`1.data
+  fullName: SerializableDictionary.Storage<T>.data
+  fullName.vb: SerializableDictionary.Storage(Of T).data
+  nameWithType: SerializableDictionary.Storage<T>.data
+  nameWithType.vb: SerializableDictionary.Storage(Of T).data
+- uid: Global.SerializableDictionaryBase`3
+  name: SerializableDictionaryBase<TKey, TValue, TValueStorage>
+  href: api/Global.SerializableDictionaryBase-3.html
+  commentId: T:Global.SerializableDictionaryBase`3
+  name.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage)
+  fullName: SerializableDictionaryBase<TKey, TValue, TValueStorage>
+  fullName.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage)
+  nameWithType: SerializableDictionaryBase<TKey, TValue, TValueStorage>
+  nameWithType.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage)
+- uid: Global.SerializableDictionaryBase`3.#ctor
+  name: SerializableDictionaryBase()
+  href: api/Global.SerializableDictionaryBase-3.html#Global_SerializableDictionaryBase_3__ctor
+  commentId: M:Global.SerializableDictionaryBase`3.#ctor
+  name.vb: New()
+  fullName: SerializableDictionaryBase<TKey, TValue, TValueStorage>.SerializableDictionaryBase()
+  fullName.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).New()
+  nameWithType: SerializableDictionaryBase<TKey, TValue, TValueStorage>.SerializableDictionaryBase()
+  nameWithType.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).New()
+- uid: Global.SerializableDictionaryBase`3.#ctor(System.Collections.Generic.IDictionary{`0,`1})
+  name: SerializableDictionaryBase(IDictionary<TKey, TValue>)
+  href: api/Global.SerializableDictionaryBase-3.html#Global_SerializableDictionaryBase_3__ctor_System_Collections_Generic_IDictionary__0__1__
+  commentId: M:Global.SerializableDictionaryBase`3.#ctor(System.Collections.Generic.IDictionary{`0,`1})
+  name.vb: New(IDictionary(Of TKey, TValue))
+  fullName: SerializableDictionaryBase<TKey, TValue, TValueStorage>.SerializableDictionaryBase(System.Collections.Generic.IDictionary<TKey, TValue>)
+  fullName.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).New(System.Collections.Generic.IDictionary(Of TKey, TValue))
+  nameWithType: SerializableDictionaryBase<TKey, TValue, TValueStorage>.SerializableDictionaryBase(IDictionary<TKey, TValue>)
+  nameWithType.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).New(IDictionary(Of TKey, TValue))
+- uid: Global.SerializableDictionaryBase`3.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+  name: SerializableDictionaryBase(SerializationInfo, StreamingContext)
+  href: api/Global.SerializableDictionaryBase-3.html#Global_SerializableDictionaryBase_3__ctor_System_Runtime_Serialization_SerializationInfo_System_Runtime_Serialization_StreamingContext_
+  commentId: M:Global.SerializableDictionaryBase`3.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+  name.vb: New(SerializationInfo, StreamingContext)
+  fullName: SerializableDictionaryBase<TKey, TValue, TValueStorage>.SerializableDictionaryBase(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
+  fullName.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
+  nameWithType: SerializableDictionaryBase<TKey, TValue, TValueStorage>.SerializableDictionaryBase(SerializationInfo, StreamingContext)
+  nameWithType.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).New(SerializationInfo, StreamingContext)
+- uid: Global.SerializableDictionaryBase`3.#ctor*
+  name: SerializableDictionaryBase
+  href: api/Global.SerializableDictionaryBase-3.html#Global_SerializableDictionaryBase_3__ctor_
+  commentId: Overload:Global.SerializableDictionaryBase`3.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: SerializableDictionaryBase<TKey, TValue, TValueStorage>.SerializableDictionaryBase
+  fullName.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).New
+  nameWithType: SerializableDictionaryBase<TKey, TValue, TValueStorage>.SerializableDictionaryBase
+  nameWithType.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).New
+- uid: Global.SerializableDictionaryBase`3.CopyFrom(System.Collections.Generic.IDictionary{`0,`1})
+  name: CopyFrom(IDictionary<TKey, TValue>)
+  href: api/Global.SerializableDictionaryBase-3.html#Global_SerializableDictionaryBase_3_CopyFrom_System_Collections_Generic_IDictionary__0__1__
+  commentId: M:Global.SerializableDictionaryBase`3.CopyFrom(System.Collections.Generic.IDictionary{`0,`1})
+  name.vb: CopyFrom(IDictionary(Of TKey, TValue))
+  fullName: SerializableDictionaryBase<TKey, TValue, TValueStorage>.CopyFrom(System.Collections.Generic.IDictionary<TKey, TValue>)
+  fullName.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).CopyFrom(System.Collections.Generic.IDictionary(Of TKey, TValue))
+  nameWithType: SerializableDictionaryBase<TKey, TValue, TValueStorage>.CopyFrom(IDictionary<TKey, TValue>)
+  nameWithType.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).CopyFrom(IDictionary(Of TKey, TValue))
+- uid: Global.SerializableDictionaryBase`3.CopyFrom*
+  name: CopyFrom
+  href: api/Global.SerializableDictionaryBase-3.html#Global_SerializableDictionaryBase_3_CopyFrom_
+  commentId: Overload:Global.SerializableDictionaryBase`3.CopyFrom
+  isSpec: "True"
+  fullName: SerializableDictionaryBase<TKey, TValue, TValueStorage>.CopyFrom
+  fullName.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).CopyFrom
+  nameWithType: SerializableDictionaryBase<TKey, TValue, TValueStorage>.CopyFrom
+  nameWithType.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).CopyFrom
+- uid: Global.SerializableDictionaryBase`3.GetValue(`2[],System.Int32)
+  name: GetValue(TValueStorage[], int)
+  href: api/Global.SerializableDictionaryBase-3.html#Global_SerializableDictionaryBase_3_GetValue__2___System_Int32_
+  commentId: M:Global.SerializableDictionaryBase`3.GetValue(`2[],System.Int32)
+  name.vb: GetValue(TValueStorage(), Integer)
+  fullName: SerializableDictionaryBase<TKey, TValue, TValueStorage>.GetValue(TValueStorage[], int)
+  fullName.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).GetValue(TValueStorage(), Integer)
+  nameWithType: SerializableDictionaryBase<TKey, TValue, TValueStorage>.GetValue(TValueStorage[], int)
+  nameWithType.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).GetValue(TValueStorage(), Integer)
+- uid: Global.SerializableDictionaryBase`3.GetValue*
+  name: GetValue
+  href: api/Global.SerializableDictionaryBase-3.html#Global_SerializableDictionaryBase_3_GetValue_
+  commentId: Overload:Global.SerializableDictionaryBase`3.GetValue
+  isSpec: "True"
+  fullName: SerializableDictionaryBase<TKey, TValue, TValueStorage>.GetValue
+  fullName.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).GetValue
+  nameWithType: SerializableDictionaryBase<TKey, TValue, TValueStorage>.GetValue
+  nameWithType.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).GetValue
+- uid: Global.SerializableDictionaryBase`3.OnAfterDeserialize
+  name: OnAfterDeserialize()
+  href: api/Global.SerializableDictionaryBase-3.html#Global_SerializableDictionaryBase_3_OnAfterDeserialize
+  commentId: M:Global.SerializableDictionaryBase`3.OnAfterDeserialize
+  fullName: SerializableDictionaryBase<TKey, TValue, TValueStorage>.OnAfterDeserialize()
+  fullName.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).OnAfterDeserialize()
+  nameWithType: SerializableDictionaryBase<TKey, TValue, TValueStorage>.OnAfterDeserialize()
+  nameWithType.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).OnAfterDeserialize()
+- uid: Global.SerializableDictionaryBase`3.OnAfterDeserialize*
+  name: OnAfterDeserialize
+  href: api/Global.SerializableDictionaryBase-3.html#Global_SerializableDictionaryBase_3_OnAfterDeserialize_
+  commentId: Overload:Global.SerializableDictionaryBase`3.OnAfterDeserialize
+  isSpec: "True"
+  fullName: SerializableDictionaryBase<TKey, TValue, TValueStorage>.OnAfterDeserialize
+  fullName.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).OnAfterDeserialize
+  nameWithType: SerializableDictionaryBase<TKey, TValue, TValueStorage>.OnAfterDeserialize
+  nameWithType.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).OnAfterDeserialize
+- uid: Global.SerializableDictionaryBase`3.OnBeforeSerialize
+  name: OnBeforeSerialize()
+  href: api/Global.SerializableDictionaryBase-3.html#Global_SerializableDictionaryBase_3_OnBeforeSerialize
+  commentId: M:Global.SerializableDictionaryBase`3.OnBeforeSerialize
+  fullName: SerializableDictionaryBase<TKey, TValue, TValueStorage>.OnBeforeSerialize()
+  fullName.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).OnBeforeSerialize()
+  nameWithType: SerializableDictionaryBase<TKey, TValue, TValueStorage>.OnBeforeSerialize()
+  nameWithType.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).OnBeforeSerialize()
+- uid: Global.SerializableDictionaryBase`3.OnBeforeSerialize*
+  name: OnBeforeSerialize
+  href: api/Global.SerializableDictionaryBase-3.html#Global_SerializableDictionaryBase_3_OnBeforeSerialize_
+  commentId: Overload:Global.SerializableDictionaryBase`3.OnBeforeSerialize
+  isSpec: "True"
+  fullName: SerializableDictionaryBase<TKey, TValue, TValueStorage>.OnBeforeSerialize
+  fullName.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).OnBeforeSerialize
+  nameWithType: SerializableDictionaryBase<TKey, TValue, TValueStorage>.OnBeforeSerialize
+  nameWithType.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).OnBeforeSerialize
+- uid: Global.SerializableDictionaryBase`3.SetValue(`2[],System.Int32,`1)
+  name: SetValue(TValueStorage[], int, TValue)
+  href: api/Global.SerializableDictionaryBase-3.html#Global_SerializableDictionaryBase_3_SetValue__2___System_Int32__1_
+  commentId: M:Global.SerializableDictionaryBase`3.SetValue(`2[],System.Int32,`1)
+  name.vb: SetValue(TValueStorage(), Integer, TValue)
+  fullName: SerializableDictionaryBase<TKey, TValue, TValueStorage>.SetValue(TValueStorage[], int, TValue)
+  fullName.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).SetValue(TValueStorage(), Integer, TValue)
+  nameWithType: SerializableDictionaryBase<TKey, TValue, TValueStorage>.SetValue(TValueStorage[], int, TValue)
+  nameWithType.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).SetValue(TValueStorage(), Integer, TValue)
+- uid: Global.SerializableDictionaryBase`3.SetValue*
+  name: SetValue
+  href: api/Global.SerializableDictionaryBase-3.html#Global_SerializableDictionaryBase_3_SetValue_
+  commentId: Overload:Global.SerializableDictionaryBase`3.SetValue
+  isSpec: "True"
+  fullName: SerializableDictionaryBase<TKey, TValue, TValueStorage>.SetValue
+  fullName.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).SetValue
+  nameWithType: SerializableDictionaryBase<TKey, TValue, TValueStorage>.SetValue
+  nameWithType.vb: SerializableDictionaryBase(Of TKey, TValue, TValueStorage).SetValue
+- uid: Global.SerializableDictionaryExample
+  name: SerializableDictionaryExample
+  href: api/Global.SerializableDictionaryExample.html
+  commentId: T:Global.SerializableDictionaryExample
+  fullName: SerializableDictionaryExample
+  nameWithType: SerializableDictionaryExample
+- uid: Global.SerializableDictionaryExample.StringStringDictionary
+  name: StringStringDictionary
+  href: api/Global.SerializableDictionaryExample.html#Global_SerializableDictionaryExample_StringStringDictionary
+  commentId: P:Global.SerializableDictionaryExample.StringStringDictionary
+  fullName: SerializableDictionaryExample.StringStringDictionary
+  nameWithType: SerializableDictionaryExample.StringStringDictionary
+- uid: Global.SerializableDictionaryExample.StringStringDictionary*
+  name: StringStringDictionary
+  href: api/Global.SerializableDictionaryExample.html#Global_SerializableDictionaryExample_StringStringDictionary_
+  commentId: Overload:Global.SerializableDictionaryExample.StringStringDictionary
+  isSpec: "True"
+  fullName: SerializableDictionaryExample.StringStringDictionary
+  nameWithType: SerializableDictionaryExample.StringStringDictionary
+- uid: Global.SerializableDictionaryExample.m_objectColorArrayDictionary
+  name: m_objectColorArrayDictionary
+  href: api/Global.SerializableDictionaryExample.html#Global_SerializableDictionaryExample_m_objectColorArrayDictionary
+  commentId: F:Global.SerializableDictionaryExample.m_objectColorArrayDictionary
+  fullName: SerializableDictionaryExample.m_objectColorArrayDictionary
+  nameWithType: SerializableDictionaryExample.m_objectColorArrayDictionary
+- uid: Global.SerializableDictionaryExample.m_objectColorDictionary
+  name: m_objectColorDictionary
+  href: api/Global.SerializableDictionaryExample.html#Global_SerializableDictionaryExample_m_objectColorDictionary
+  commentId: F:Global.SerializableDictionaryExample.m_objectColorDictionary
+  fullName: SerializableDictionaryExample.m_objectColorDictionary
+  nameWithType: SerializableDictionaryExample.m_objectColorDictionary
+- uid: Global.SerializableDictionaryPropertyDrawer
+  name: SerializableDictionaryPropertyDrawer
+  href: api/Global.SerializableDictionaryPropertyDrawer.html
+  commentId: T:Global.SerializableDictionaryPropertyDrawer
+  fullName: SerializableDictionaryPropertyDrawer
+  nameWithType: SerializableDictionaryPropertyDrawer
+- uid: Global.SerializableDictionaryPropertyDrawer.GetPropertyHeight(SerializedProperty,GUIContent)
+  name: GetPropertyHeight(SerializedProperty, GUIContent)
+  href: api/Global.SerializableDictionaryPropertyDrawer.html#Global_SerializableDictionaryPropertyDrawer_GetPropertyHeight_SerializedProperty_GUIContent_
+  commentId: M:Global.SerializableDictionaryPropertyDrawer.GetPropertyHeight(SerializedProperty,GUIContent)
+  fullName: SerializableDictionaryPropertyDrawer.GetPropertyHeight(SerializedProperty, GUIContent)
+  nameWithType: SerializableDictionaryPropertyDrawer.GetPropertyHeight(SerializedProperty, GUIContent)
+- uid: Global.SerializableDictionaryPropertyDrawer.GetPropertyHeight*
+  name: GetPropertyHeight
+  href: api/Global.SerializableDictionaryPropertyDrawer.html#Global_SerializableDictionaryPropertyDrawer_GetPropertyHeight_
+  commentId: Overload:Global.SerializableDictionaryPropertyDrawer.GetPropertyHeight
+  isSpec: "True"
+  fullName: SerializableDictionaryPropertyDrawer.GetPropertyHeight
+  nameWithType: SerializableDictionaryPropertyDrawer.GetPropertyHeight
+- uid: Global.SerializableDictionaryPropertyDrawer.GetPropertyValue(SerializedProperty)
+  name: GetPropertyValue(SerializedProperty)
+  href: api/Global.SerializableDictionaryPropertyDrawer.html#Global_SerializableDictionaryPropertyDrawer_GetPropertyValue_SerializedProperty_
+  commentId: M:Global.SerializableDictionaryPropertyDrawer.GetPropertyValue(SerializedProperty)
+  fullName: SerializableDictionaryPropertyDrawer.GetPropertyValue(SerializedProperty)
+  nameWithType: SerializableDictionaryPropertyDrawer.GetPropertyValue(SerializedProperty)
+- uid: Global.SerializableDictionaryPropertyDrawer.GetPropertyValue*
+  name: GetPropertyValue
+  href: api/Global.SerializableDictionaryPropertyDrawer.html#Global_SerializableDictionaryPropertyDrawer_GetPropertyValue_
+  commentId: Overload:Global.SerializableDictionaryPropertyDrawer.GetPropertyValue
+  isSpec: "True"
+  fullName: SerializableDictionaryPropertyDrawer.GetPropertyValue
+  nameWithType: SerializableDictionaryPropertyDrawer.GetPropertyValue
+- uid: Global.SerializableDictionaryPropertyDrawer.IndentWidth
+  name: IndentWidth
+  href: api/Global.SerializableDictionaryPropertyDrawer.html#Global_SerializableDictionaryPropertyDrawer_IndentWidth
+  commentId: F:Global.SerializableDictionaryPropertyDrawer.IndentWidth
+  fullName: SerializableDictionaryPropertyDrawer.IndentWidth
+  nameWithType: SerializableDictionaryPropertyDrawer.IndentWidth
+- uid: Global.SerializableDictionaryPropertyDrawer.OnGUI(Rect,SerializedProperty,GUIContent)
+  name: OnGUI(Rect, SerializedProperty, GUIContent)
+  href: api/Global.SerializableDictionaryPropertyDrawer.html#Global_SerializableDictionaryPropertyDrawer_OnGUI_Rect_SerializedProperty_GUIContent_
+  commentId: M:Global.SerializableDictionaryPropertyDrawer.OnGUI(Rect,SerializedProperty,GUIContent)
+  fullName: SerializableDictionaryPropertyDrawer.OnGUI(Rect, SerializedProperty, GUIContent)
+  nameWithType: SerializableDictionaryPropertyDrawer.OnGUI(Rect, SerializedProperty, GUIContent)
+- uid: Global.SerializableDictionaryPropertyDrawer.OnGUI*
+  name: OnGUI
+  href: api/Global.SerializableDictionaryPropertyDrawer.html#Global_SerializableDictionaryPropertyDrawer_OnGUI_
+  commentId: Overload:Global.SerializableDictionaryPropertyDrawer.OnGUI
+  isSpec: "True"
+  fullName: SerializableDictionaryPropertyDrawer.OnGUI
+  nameWithType: SerializableDictionaryPropertyDrawer.OnGUI
+- uid: Global.SerializableDictionaryStoragePropertyDrawer
+  name: SerializableDictionaryStoragePropertyDrawer
+  href: api/Global.SerializableDictionaryStoragePropertyDrawer.html
+  commentId: T:Global.SerializableDictionaryStoragePropertyDrawer
+  fullName: SerializableDictionaryStoragePropertyDrawer
+  nameWithType: SerializableDictionaryStoragePropertyDrawer
+- uid: Global.SerializableDictionaryStoragePropertyDrawer.GetPropertyHeight(SerializedProperty,GUIContent)
+  name: GetPropertyHeight(SerializedProperty, GUIContent)
+  href: api/Global.SerializableDictionaryStoragePropertyDrawer.html#Global_SerializableDictionaryStoragePropertyDrawer_GetPropertyHeight_SerializedProperty_GUIContent_
+  commentId: M:Global.SerializableDictionaryStoragePropertyDrawer.GetPropertyHeight(SerializedProperty,GUIContent)
+  fullName: SerializableDictionaryStoragePropertyDrawer.GetPropertyHeight(SerializedProperty, GUIContent)
+  nameWithType: SerializableDictionaryStoragePropertyDrawer.GetPropertyHeight(SerializedProperty, GUIContent)
+- uid: Global.SerializableDictionaryStoragePropertyDrawer.GetPropertyHeight*
+  name: GetPropertyHeight
+  href: api/Global.SerializableDictionaryStoragePropertyDrawer.html#Global_SerializableDictionaryStoragePropertyDrawer_GetPropertyHeight_
+  commentId: Overload:Global.SerializableDictionaryStoragePropertyDrawer.GetPropertyHeight
+  isSpec: "True"
+  fullName: SerializableDictionaryStoragePropertyDrawer.GetPropertyHeight
+  nameWithType: SerializableDictionaryStoragePropertyDrawer.GetPropertyHeight
+- uid: Global.SerializableDictionaryStoragePropertyDrawer.OnGUI(Rect,SerializedProperty,GUIContent)
+  name: OnGUI(Rect, SerializedProperty, GUIContent)
+  href: api/Global.SerializableDictionaryStoragePropertyDrawer.html#Global_SerializableDictionaryStoragePropertyDrawer_OnGUI_Rect_SerializedProperty_GUIContent_
+  commentId: M:Global.SerializableDictionaryStoragePropertyDrawer.OnGUI(Rect,SerializedProperty,GUIContent)
+  fullName: SerializableDictionaryStoragePropertyDrawer.OnGUI(Rect, SerializedProperty, GUIContent)
+  nameWithType: SerializableDictionaryStoragePropertyDrawer.OnGUI(Rect, SerializedProperty, GUIContent)
+- uid: Global.SerializableDictionaryStoragePropertyDrawer.OnGUI*
+  name: OnGUI
+  href: api/Global.SerializableDictionaryStoragePropertyDrawer.html#Global_SerializableDictionaryStoragePropertyDrawer_OnGUI_
+  commentId: Overload:Global.SerializableDictionaryStoragePropertyDrawer.OnGUI
+  isSpec: "True"
+  fullName: SerializableDictionaryStoragePropertyDrawer.OnGUI
+  nameWithType: SerializableDictionaryStoragePropertyDrawer.OnGUI
+- uid: Global.SerializableDictionary`2
+  name: SerializableDictionary<TKey, TValue>
+  href: api/Global.SerializableDictionary-2.html
+  commentId: T:Global.SerializableDictionary`2
+  name.vb: SerializableDictionary(Of TKey, TValue)
+  fullName: SerializableDictionary<TKey, TValue>
+  fullName.vb: SerializableDictionary(Of TKey, TValue)
+  nameWithType: SerializableDictionary<TKey, TValue>
+  nameWithType.vb: SerializableDictionary(Of TKey, TValue)
+- uid: Global.SerializableDictionary`2.#ctor
+  name: SerializableDictionary()
+  href: api/Global.SerializableDictionary-2.html#Global_SerializableDictionary_2__ctor
+  commentId: M:Global.SerializableDictionary`2.#ctor
+  name.vb: New()
+  fullName: SerializableDictionary<TKey, TValue>.SerializableDictionary()
+  fullName.vb: SerializableDictionary(Of TKey, TValue).New()
+  nameWithType: SerializableDictionary<TKey, TValue>.SerializableDictionary()
+  nameWithType.vb: SerializableDictionary(Of TKey, TValue).New()
+- uid: Global.SerializableDictionary`2.#ctor(System.Collections.Generic.IDictionary{`0,`1})
+  name: SerializableDictionary(IDictionary<TKey, TValue>)
+  href: api/Global.SerializableDictionary-2.html#Global_SerializableDictionary_2__ctor_System_Collections_Generic_IDictionary__0__1__
+  commentId: M:Global.SerializableDictionary`2.#ctor(System.Collections.Generic.IDictionary{`0,`1})
+  name.vb: New(IDictionary(Of TKey, TValue))
+  fullName: SerializableDictionary<TKey, TValue>.SerializableDictionary(System.Collections.Generic.IDictionary<TKey, TValue>)
+  fullName.vb: SerializableDictionary(Of TKey, TValue).New(System.Collections.Generic.IDictionary(Of TKey, TValue))
+  nameWithType: SerializableDictionary<TKey, TValue>.SerializableDictionary(IDictionary<TKey, TValue>)
+  nameWithType.vb: SerializableDictionary(Of TKey, TValue).New(IDictionary(Of TKey, TValue))
+- uid: Global.SerializableDictionary`2.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+  name: SerializableDictionary(SerializationInfo, StreamingContext)
+  href: api/Global.SerializableDictionary-2.html#Global_SerializableDictionary_2__ctor_System_Runtime_Serialization_SerializationInfo_System_Runtime_Serialization_StreamingContext_
+  commentId: M:Global.SerializableDictionary`2.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+  name.vb: New(SerializationInfo, StreamingContext)
+  fullName: SerializableDictionary<TKey, TValue>.SerializableDictionary(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
+  fullName.vb: SerializableDictionary(Of TKey, TValue).New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
+  nameWithType: SerializableDictionary<TKey, TValue>.SerializableDictionary(SerializationInfo, StreamingContext)
+  nameWithType.vb: SerializableDictionary(Of TKey, TValue).New(SerializationInfo, StreamingContext)
+- uid: Global.SerializableDictionary`2.#ctor*
+  name: SerializableDictionary
+  href: api/Global.SerializableDictionary-2.html#Global_SerializableDictionary_2__ctor_
+  commentId: Overload:Global.SerializableDictionary`2.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: SerializableDictionary<TKey, TValue>.SerializableDictionary
+  fullName.vb: SerializableDictionary(Of TKey, TValue).New
+  nameWithType: SerializableDictionary<TKey, TValue>.SerializableDictionary
+  nameWithType.vb: SerializableDictionary(Of TKey, TValue).New
+- uid: Global.SerializableDictionary`2.GetValue(`1[],System.Int32)
+  name: GetValue(TValue[], int)
+  href: api/Global.SerializableDictionary-2.html#Global_SerializableDictionary_2_GetValue__1___System_Int32_
+  commentId: M:Global.SerializableDictionary`2.GetValue(`1[],System.Int32)
+  name.vb: GetValue(TValue(), Integer)
+  fullName: SerializableDictionary<TKey, TValue>.GetValue(TValue[], int)
+  fullName.vb: SerializableDictionary(Of TKey, TValue).GetValue(TValue(), Integer)
+  nameWithType: SerializableDictionary<TKey, TValue>.GetValue(TValue[], int)
+  nameWithType.vb: SerializableDictionary(Of TKey, TValue).GetValue(TValue(), Integer)
+- uid: Global.SerializableDictionary`2.GetValue*
+  name: GetValue
+  href: api/Global.SerializableDictionary-2.html#Global_SerializableDictionary_2_GetValue_
+  commentId: Overload:Global.SerializableDictionary`2.GetValue
+  isSpec: "True"
+  fullName: SerializableDictionary<TKey, TValue>.GetValue
+  fullName.vb: SerializableDictionary(Of TKey, TValue).GetValue
+  nameWithType: SerializableDictionary<TKey, TValue>.GetValue
+  nameWithType.vb: SerializableDictionary(Of TKey, TValue).GetValue
+- uid: Global.SerializableDictionary`2.SetValue(`1[],System.Int32,`1)
+  name: SetValue(TValue[], int, TValue)
+  href: api/Global.SerializableDictionary-2.html#Global_SerializableDictionary_2_SetValue__1___System_Int32__1_
+  commentId: M:Global.SerializableDictionary`2.SetValue(`1[],System.Int32,`1)
+  name.vb: SetValue(TValue(), Integer, TValue)
+  fullName: SerializableDictionary<TKey, TValue>.SetValue(TValue[], int, TValue)
+  fullName.vb: SerializableDictionary(Of TKey, TValue).SetValue(TValue(), Integer, TValue)
+  nameWithType: SerializableDictionary<TKey, TValue>.SetValue(TValue[], int, TValue)
+  nameWithType.vb: SerializableDictionary(Of TKey, TValue).SetValue(TValue(), Integer, TValue)
+- uid: Global.SerializableDictionary`2.SetValue*
+  name: SetValue
+  href: api/Global.SerializableDictionary-2.html#Global_SerializableDictionary_2_SetValue_
+  commentId: Overload:Global.SerializableDictionary`2.SetValue
+  isSpec: "True"
+  fullName: SerializableDictionary<TKey, TValue>.SetValue
+  fullName.vb: SerializableDictionary(Of TKey, TValue).SetValue
+  nameWithType: SerializableDictionary<TKey, TValue>.SetValue
+  nameWithType.vb: SerializableDictionary(Of TKey, TValue).SetValue
+- uid: Global.SerializableDictionary`3
+  name: SerializableDictionary<TKey, TValue, TValueStorage>
+  href: api/Global.SerializableDictionary-3.html
+  commentId: T:Global.SerializableDictionary`3
+  name.vb: SerializableDictionary(Of TKey, TValue, TValueStorage)
+  fullName: SerializableDictionary<TKey, TValue, TValueStorage>
+  fullName.vb: SerializableDictionary(Of TKey, TValue, TValueStorage)
+  nameWithType: SerializableDictionary<TKey, TValue, TValueStorage>
+  nameWithType.vb: SerializableDictionary(Of TKey, TValue, TValueStorage)
+- uid: Global.SerializableDictionary`3.#ctor
+  name: SerializableDictionary()
+  href: api/Global.SerializableDictionary-3.html#Global_SerializableDictionary_3__ctor
+  commentId: M:Global.SerializableDictionary`3.#ctor
+  name.vb: New()
+  fullName: SerializableDictionary<TKey, TValue, TValueStorage>.SerializableDictionary()
+  fullName.vb: SerializableDictionary(Of TKey, TValue, TValueStorage).New()
+  nameWithType: SerializableDictionary<TKey, TValue, TValueStorage>.SerializableDictionary()
+  nameWithType.vb: SerializableDictionary(Of TKey, TValue, TValueStorage).New()
+- uid: Global.SerializableDictionary`3.#ctor(System.Collections.Generic.IDictionary{`0,`1})
+  name: SerializableDictionary(IDictionary<TKey, TValue>)
+  href: api/Global.SerializableDictionary-3.html#Global_SerializableDictionary_3__ctor_System_Collections_Generic_IDictionary__0__1__
+  commentId: M:Global.SerializableDictionary`3.#ctor(System.Collections.Generic.IDictionary{`0,`1})
+  name.vb: New(IDictionary(Of TKey, TValue))
+  fullName: SerializableDictionary<TKey, TValue, TValueStorage>.SerializableDictionary(System.Collections.Generic.IDictionary<TKey, TValue>)
+  fullName.vb: SerializableDictionary(Of TKey, TValue, TValueStorage).New(System.Collections.Generic.IDictionary(Of TKey, TValue))
+  nameWithType: SerializableDictionary<TKey, TValue, TValueStorage>.SerializableDictionary(IDictionary<TKey, TValue>)
+  nameWithType.vb: SerializableDictionary(Of TKey, TValue, TValueStorage).New(IDictionary(Of TKey, TValue))
+- uid: Global.SerializableDictionary`3.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+  name: SerializableDictionary(SerializationInfo, StreamingContext)
+  href: api/Global.SerializableDictionary-3.html#Global_SerializableDictionary_3__ctor_System_Runtime_Serialization_SerializationInfo_System_Runtime_Serialization_StreamingContext_
+  commentId: M:Global.SerializableDictionary`3.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
+  name.vb: New(SerializationInfo, StreamingContext)
+  fullName: SerializableDictionary<TKey, TValue, TValueStorage>.SerializableDictionary(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
+  fullName.vb: SerializableDictionary(Of TKey, TValue, TValueStorage).New(System.Runtime.Serialization.SerializationInfo, System.Runtime.Serialization.StreamingContext)
+  nameWithType: SerializableDictionary<TKey, TValue, TValueStorage>.SerializableDictionary(SerializationInfo, StreamingContext)
+  nameWithType.vb: SerializableDictionary(Of TKey, TValue, TValueStorage).New(SerializationInfo, StreamingContext)
+- uid: Global.SerializableDictionary`3.#ctor*
+  name: SerializableDictionary
+  href: api/Global.SerializableDictionary-3.html#Global_SerializableDictionary_3__ctor_
+  commentId: Overload:Global.SerializableDictionary`3.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: SerializableDictionary<TKey, TValue, TValueStorage>.SerializableDictionary
+  fullName.vb: SerializableDictionary(Of TKey, TValue, TValueStorage).New
+  nameWithType: SerializableDictionary<TKey, TValue, TValueStorage>.SerializableDictionary
+  nameWithType.vb: SerializableDictionary(Of TKey, TValue, TValueStorage).New
+- uid: Global.SerializableDictionary`3.GetValue(`2[],System.Int32)
+  name: GetValue(TValueStorage[], int)
+  href: api/Global.SerializableDictionary-3.html#Global_SerializableDictionary_3_GetValue__2___System_Int32_
+  commentId: M:Global.SerializableDictionary`3.GetValue(`2[],System.Int32)
+  name.vb: GetValue(TValueStorage(), Integer)
+  fullName: SerializableDictionary<TKey, TValue, TValueStorage>.GetValue(TValueStorage[], int)
+  fullName.vb: SerializableDictionary(Of TKey, TValue, TValueStorage).GetValue(TValueStorage(), Integer)
+  nameWithType: SerializableDictionary<TKey, TValue, TValueStorage>.GetValue(TValueStorage[], int)
+  nameWithType.vb: SerializableDictionary(Of TKey, TValue, TValueStorage).GetValue(TValueStorage(), Integer)
+- uid: Global.SerializableDictionary`3.GetValue*
+  name: GetValue
+  href: api/Global.SerializableDictionary-3.html#Global_SerializableDictionary_3_GetValue_
+  commentId: Overload:Global.SerializableDictionary`3.GetValue
+  isSpec: "True"
+  fullName: SerializableDictionary<TKey, TValue, TValueStorage>.GetValue
+  fullName.vb: SerializableDictionary(Of TKey, TValue, TValueStorage).GetValue
+  nameWithType: SerializableDictionary<TKey, TValue, TValueStorage>.GetValue
+  nameWithType.vb: SerializableDictionary(Of TKey, TValue, TValueStorage).GetValue
+- uid: Global.SerializableDictionary`3.SetValue(`2[],System.Int32,`1)
+  name: SetValue(TValueStorage[], int, TValue)
+  href: api/Global.SerializableDictionary-3.html#Global_SerializableDictionary_3_SetValue__2___System_Int32__1_
+  commentId: M:Global.SerializableDictionary`3.SetValue(`2[],System.Int32,`1)
+  name.vb: SetValue(TValueStorage(), Integer, TValue)
+  fullName: SerializableDictionary<TKey, TValue, TValueStorage>.SetValue(TValueStorage[], int, TValue)
+  fullName.vb: SerializableDictionary(Of TKey, TValue, TValueStorage).SetValue(TValueStorage(), Integer, TValue)
+  nameWithType: SerializableDictionary<TKey, TValue, TValueStorage>.SetValue(TValueStorage[], int, TValue)
+  nameWithType.vb: SerializableDictionary(Of TKey, TValue, TValueStorage).SetValue(TValueStorage(), Integer, TValue)
+- uid: Global.SerializableDictionary`3.SetValue*
+  name: SetValue
+  href: api/Global.SerializableDictionary-3.html#Global_SerializableDictionary_3_SetValue_
+  commentId: Overload:Global.SerializableDictionary`3.SetValue
+  isSpec: "True"
+  fullName: SerializableDictionary<TKey, TValue, TValueStorage>.SetValue
+  fullName.vb: SerializableDictionary(Of TKey, TValue, TValueStorage).SetValue
+  nameWithType: SerializableDictionary<TKey, TValue, TValueStorage>.SetValue
+  nameWithType.vb: SerializableDictionary(Of TKey, TValue, TValueStorage).SetValue
+- uid: Global.SimpleCharacterMotor
+  name: SimpleCharacterMotor
+  href: api/Global.SimpleCharacterMotor.html
+  commentId: T:Global.SimpleCharacterMotor
+  fullName: SimpleCharacterMotor
+  nameWithType: SimpleCharacterMotor
+- uid: Global.SimpleCharacterMotor.cameraPivot
+  name: cameraPivot
+  href: api/Global.SimpleCharacterMotor.html#Global_SimpleCharacterMotor_cameraPivot
+  commentId: F:Global.SimpleCharacterMotor.cameraPivot
+  fullName: SimpleCharacterMotor.cameraPivot
+  nameWithType: SimpleCharacterMotor.cameraPivot
+- uid: Global.SimpleCharacterMotor.cursorLockMode
+  name: cursorLockMode
+  href: api/Global.SimpleCharacterMotor.html#Global_SimpleCharacterMotor_cursorLockMode
+  commentId: F:Global.SimpleCharacterMotor.cursorLockMode
+  fullName: SimpleCharacterMotor.cursorLockMode
+  nameWithType: SimpleCharacterMotor.cursorLockMode
+- uid: Global.SimpleCharacterMotor.cursorVisible
+  name: cursorVisible
+  href: api/Global.SimpleCharacterMotor.html#Global_SimpleCharacterMotor_cursorVisible
+  commentId: F:Global.SimpleCharacterMotor.cursorVisible
+  fullName: SimpleCharacterMotor.cursorVisible
+  nameWithType: SimpleCharacterMotor.cursorVisible
+- uid: Global.SimpleCharacterMotor.gravity
+  name: gravity
+  href: api/Global.SimpleCharacterMotor.html#Global_SimpleCharacterMotor_gravity
+  commentId: F:Global.SimpleCharacterMotor.gravity
+  fullName: SimpleCharacterMotor.gravity
+  nameWithType: SimpleCharacterMotor.gravity
+- uid: Global.SimpleCharacterMotor.invertY
+  name: invertY
+  href: api/Global.SimpleCharacterMotor.html#Global_SimpleCharacterMotor_invertY
+  commentId: F:Global.SimpleCharacterMotor.invertY
+  fullName: SimpleCharacterMotor.invertY
+  nameWithType: SimpleCharacterMotor.invertY
+- uid: Global.SimpleCharacterMotor.lookSpeed
+  name: lookSpeed
+  href: api/Global.SimpleCharacterMotor.html#Global_SimpleCharacterMotor_lookSpeed
+  commentId: F:Global.SimpleCharacterMotor.lookSpeed
+  fullName: SimpleCharacterMotor.lookSpeed
+  nameWithType: SimpleCharacterMotor.lookSpeed
+- uid: Global.SimpleCharacterMotor.movementAcceleration
+  name: movementAcceleration
+  href: api/Global.SimpleCharacterMotor.html#Global_SimpleCharacterMotor_movementAcceleration
+  commentId: F:Global.SimpleCharacterMotor.movementAcceleration
+  fullName: SimpleCharacterMotor.movementAcceleration
+  nameWithType: SimpleCharacterMotor.movementAcceleration
+- uid: Global.SimpleCharacterMotor.runSpeed
+  name: runSpeed
+  href: api/Global.SimpleCharacterMotor.html#Global_SimpleCharacterMotor_runSpeed
+  commentId: F:Global.SimpleCharacterMotor.runSpeed
+  fullName: SimpleCharacterMotor.runSpeed
+  nameWithType: SimpleCharacterMotor.runSpeed
+- uid: Global.SimpleCharacterMotor.walkSpeed
+  name: walkSpeed
+  href: api/Global.SimpleCharacterMotor.html#Global_SimpleCharacterMotor_walkSpeed
+  commentId: F:Global.SimpleCharacterMotor.walkSpeed
+  fullName: SimpleCharacterMotor.walkSpeed
+  nameWithType: SimpleCharacterMotor.walkSpeed
+- uid: Global.Singleton`1
+  name: Singleton<T>
+  href: api/Global.Singleton-1.html
+  commentId: T:Global.Singleton`1
+  name.vb: Singleton(Of T)
+  fullName: Singleton<T>
+  fullName.vb: Singleton(Of T)
+  nameWithType: Singleton<T>
+  nameWithType.vb: Singleton(Of T)
+- uid: Global.Singleton`1.Awake
+  name: Awake()
+  href: api/Global.Singleton-1.html#Global_Singleton_1_Awake
+  commentId: M:Global.Singleton`1.Awake
+  fullName: Singleton<T>.Awake()
+  fullName.vb: Singleton(Of T).Awake()
+  nameWithType: Singleton<T>.Awake()
+  nameWithType.vb: Singleton(Of T).Awake()
+- uid: Global.Singleton`1.Awake*
+  name: Awake
+  href: api/Global.Singleton-1.html#Global_Singleton_1_Awake_
+  commentId: Overload:Global.Singleton`1.Awake
+  isSpec: "True"
+  fullName: Singleton<T>.Awake
+  fullName.vb: Singleton(Of T).Awake
+  nameWithType: Singleton<T>.Awake
+  nameWithType.vb: Singleton(Of T).Awake
+- uid: Global.Singleton`1.Instance
+  name: Instance
+  href: api/Global.Singleton-1.html#Global_Singleton_1_Instance
+  commentId: P:Global.Singleton`1.Instance
+  fullName: Singleton<T>.Instance
+  fullName.vb: Singleton(Of T).Instance
+  nameWithType: Singleton<T>.Instance
+  nameWithType.vb: Singleton(Of T).Instance
+- uid: Global.Singleton`1.Instance*
+  name: Instance
+  href: api/Global.Singleton-1.html#Global_Singleton_1_Instance_
+  commentId: Overload:Global.Singleton`1.Instance
+  isSpec: "True"
+  fullName: Singleton<T>.Instance
+  fullName.vb: Singleton(Of T).Instance
+  nameWithType: Singleton<T>.Instance
+  nameWithType.vb: Singleton(Of T).Instance
+- uid: Global.SpawnEffect
+  name: SpawnEffect
+  href: api/Global.SpawnEffect.html
+  commentId: T:Global.SpawnEffect
+  fullName: SpawnEffect
+  nameWithType: SpawnEffect
+- uid: Global.SpawnEffect.fadeIn
+  name: fadeIn
+  href: api/Global.SpawnEffect.html#Global_SpawnEffect_fadeIn
+  commentId: F:Global.SpawnEffect.fadeIn
+  fullName: SpawnEffect.fadeIn
+  nameWithType: SpawnEffect.fadeIn
+- uid: Global.SpawnEffect.pause
+  name: pause
+  href: api/Global.SpawnEffect.html#Global_SpawnEffect_pause
+  commentId: F:Global.SpawnEffect.pause
+  fullName: SpawnEffect.pause
+  nameWithType: SpawnEffect.pause
+- uid: Global.SpawnEffect.spawnEffectTime
+  name: spawnEffectTime
+  href: api/Global.SpawnEffect.html#Global_SpawnEffect_spawnEffectTime
+  commentId: F:Global.SpawnEffect.spawnEffectTime
+  fullName: SpawnEffect.spawnEffectTime
+  nameWithType: SpawnEffect.spawnEffectTime
+- uid: Global.StringColorArrayDictionary
+  name: StringColorArrayDictionary
+  href: api/Global.StringColorArrayDictionary.html
+  commentId: T:Global.StringColorArrayDictionary
+  fullName: StringColorArrayDictionary
+  nameWithType: StringColorArrayDictionary
+- uid: Global.StringStringDictionary
+  name: StringStringDictionary
+  href: api/Global.StringStringDictionary.html
+  commentId: T:Global.StringStringDictionary
+  fullName: StringStringDictionary
+  nameWithType: StringStringDictionary
+- uid: Global.Tester
+  name: Tester
+  href: api/Global.Tester.html
+  commentId: T:Global.Tester
+  fullName: Tester
+  nameWithType: Tester
+- uid: Global.Tester.gripButton
+  name: gripButton
+  href: api/Global.Tester.html#Global_Tester_gripButton
+  commentId: F:Global.Tester.gripButton
+  fullName: Tester.gripButton
+  nameWithType: Tester.gripButton
+- uid: Global.Tester.gripPublisher
+  name: gripPublisher
+  href: api/Global.Tester.html#Global_Tester_gripPublisher
+  commentId: F:Global.Tester.gripPublisher
+  fullName: Tester.gripPublisher
+  nameWithType: Tester.gripPublisher
+- uid: Global.Tester.gripSlider
+  name: gripSlider
+  href: api/Global.Tester.html#Global_Tester_gripSlider
+  commentId: F:Global.Tester.gripSlider
+  fullName: Tester.gripSlider
+  nameWithType: Tester.gripSlider
+- uid: Global.Tester.idSelectDropdown
+  name: idSelectDropdown
+  href: api/Global.Tester.html#Global_Tester_idSelectDropdown
+  commentId: F:Global.Tester.idSelectDropdown
+  fullName: Tester.idSelectDropdown
+  nameWithType: Tester.idSelectDropdown
+- uid: Global.Tester.releaseButton
+  name: releaseButton
+  href: api/Global.Tester.html#Global_Tester_releaseButton
+  commentId: F:Global.Tester.releaseButton
+  fullName: Tester.releaseButton
+  nameWithType: Tester.releaseButton
+- uid: Global.Tester.robotiqController
+  name: robotiqController
+  href: api/Global.Tester.html#Global_Tester_robotiqController
+  commentId: F:Global.Tester.robotiqController
+  fullName: Tester.robotiqController
+  nameWithType: Tester.robotiqController
+- uid: Global.Tester.robotiqPublisher
+  name: robotiqPublisher
+  href: api/Global.Tester.html#Global_Tester_robotiqPublisher
+  commentId: F:Global.Tester.robotiqPublisher
+  fullName: Tester.robotiqPublisher
+  nameWithType: Tester.robotiqPublisher
+- uid: Global.Tester.urController
+  name: urController
+  href: api/Global.Tester.html#Global_Tester_urController
+  commentId: F:Global.Tester.urController
+  fullName: Tester.urController
+  nameWithType: Tester.urController
+- uid: Global.Tester.urPublisher
+  name: urPublisher
+  href: api/Global.Tester.html#Global_Tester_urPublisher
+  commentId: F:Global.Tester.urPublisher
+  fullName: Tester.urPublisher
+  nameWithType: Tester.urPublisher
+- uid: Global.Tester.urSliders
+  name: urSliders
+  href: api/Global.Tester.html#Global_Tester_urSliders
+  commentId: F:Global.Tester.urSliders
+  fullName: Tester.urSliders
+  nameWithType: Tester.urSliders
+- uid: Global.Utility
+  name: Utility
+  href: api/Global.Utility.html
+  commentId: T:Global.Utility
+  fullName: Utility
+  nameWithType: Utility
+- uid: Global.Utility.UniqueID
+  name: UniqueID()
+  href: api/Global.Utility.html#Global_Utility_UniqueID
+  commentId: M:Global.Utility.UniqueID
+  fullName: Utility.UniqueID()
+  nameWithType: Utility.UniqueID()
+- uid: Global.Utility.UniqueID*
+  name: UniqueID
+  href: api/Global.Utility.html#Global_Utility_UniqueID_
+  commentId: Overload:Global.Utility.UniqueID
+  isSpec: "True"
+  fullName: Utility.UniqueID
+  nameWithType: Utility.UniqueID
+- uid: URVisualization
+  name: URVisualization
+  href: api/URVisualization.html
+  commentId: N:URVisualization
+  fullName: URVisualization
+  nameWithType: URVisualization
+- uid: URVisualization.Controller
+  name: Controller
+  href: api/URVisualization.Controller.html
+  commentId: T:URVisualization.Controller
+  fullName: URVisualization.Controller
+  nameWithType: Controller
+- uid: URVisualization.Controller.Update
+  name: Update()
+  href: api/URVisualization.Controller.html#URVisualization_Controller_Update
+  commentId: M:URVisualization.Controller.Update
+  fullName: URVisualization.Controller.Update()
+  nameWithType: Controller.Update()
+- uid: URVisualization.Controller.Update*
+  name: Update
+  href: api/URVisualization.Controller.html#URVisualization_Controller_Update_
+  commentId: Overload:URVisualization.Controller.Update
+  isSpec: "True"
+  fullName: URVisualization.Controller.Update
+  nameWithType: Controller.Update
+- uid: URVisualization.Controller.acceleration
+  name: acceleration
+  href: api/URVisualization.Controller.html#URVisualization_Controller_acceleration
+  commentId: F:URVisualization.Controller.acceleration
+  fullName: URVisualization.Controller.acceleration
+  nameWithType: Controller.acceleration
+- uid: URVisualization.Controller.articulationChain
+  name: articulationChain
+  href: api/URVisualization.Controller.html#URVisualization_Controller_articulationChain
+  commentId: F:URVisualization.Controller.articulationChain
+  fullName: URVisualization.Controller.articulationChain
+  nameWithType: Controller.articulationChain
+- uid: URVisualization.Controller.control
+  name: control
+  href: api/URVisualization.Controller.html#URVisualization_Controller_control
+  commentId: F:URVisualization.Controller.control
+  fullName: URVisualization.Controller.control
+  nameWithType: Controller.control
+- uid: URVisualization.Controller.damping
+  name: damping
+  href: api/URVisualization.Controller.html#URVisualization_Controller_damping
+  commentId: F:URVisualization.Controller.damping
+  fullName: URVisualization.Controller.damping
+  nameWithType: Controller.damping
+- uid: URVisualization.Controller.driveType
+  name: driveType
+  href: api/URVisualization.Controller.html#URVisualization_Controller_driveType
+  commentId: F:URVisualization.Controller.driveType
+  fullName: URVisualization.Controller.driveType
+  nameWithType: Controller.driveType
+- uid: URVisualization.Controller.forceLimit
+  name: forceLimit
+  href: api/URVisualization.Controller.html#URVisualization_Controller_forceLimit
+  commentId: F:URVisualization.Controller.forceLimit
+  fullName: URVisualization.Controller.forceLimit
+  nameWithType: Controller.forceLimit
+- uid: URVisualization.Controller.joints
+  name: joints
+  href: api/URVisualization.Controller.html#URVisualization_Controller_joints
+  commentId: F:URVisualization.Controller.joints
+  fullName: URVisualization.Controller.joints
+  nameWithType: Controller.joints
+- uid: URVisualization.Controller.speed
+  name: speed
+  href: api/URVisualization.Controller.html#URVisualization_Controller_speed
+  commentId: F:URVisualization.Controller.speed
+  fullName: URVisualization.Controller.speed
+  nameWithType: Controller.speed
+- uid: URVisualization.Controller.stiffness
+  name: stiffness
+  href: api/URVisualization.Controller.html#URVisualization_Controller_stiffness
+  commentId: F:URVisualization.Controller.stiffness
+  fullName: URVisualization.Controller.stiffness
+  nameWithType: Controller.stiffness
+- uid: URVisualization.Controller.torque
+  name: torque
+  href: api/URVisualization.Controller.html#URVisualization_Controller_torque
+  commentId: F:URVisualization.Controller.torque
+  fullName: URVisualization.Controller.torque
+  nameWithType: Controller.torque
+- uid: URVisualization.Controller`1
+  name: Controller<T>
+  href: api/URVisualization.Controller-1.html
+  commentId: T:URVisualization.Controller`1
+  name.vb: Controller(Of T)
+  fullName: URVisualization.Controller<T>
+  fullName.vb: URVisualization.Controller(Of T)
+  nameWithType: Controller<T>
+  nameWithType.vb: Controller(Of T)
+- uid: URVisualization.Controller`1.OnMessageReceived(`0)
+  name: OnMessageReceived(T)
+  href: api/URVisualization.Controller-1.html#URVisualization_Controller_1_OnMessageReceived__0_
+  commentId: M:URVisualization.Controller`1.OnMessageReceived(`0)
+  fullName: URVisualization.Controller<T>.OnMessageReceived(T)
+  fullName.vb: URVisualization.Controller(Of T).OnMessageReceived(T)
+  nameWithType: Controller<T>.OnMessageReceived(T)
+  nameWithType.vb: Controller(Of T).OnMessageReceived(T)
+- uid: URVisualization.Controller`1.OnMessageReceived*
+  name: OnMessageReceived
+  href: api/URVisualization.Controller-1.html#URVisualization_Controller_1_OnMessageReceived_
+  commentId: Overload:URVisualization.Controller`1.OnMessageReceived
+  isSpec: "True"
+  fullName: URVisualization.Controller<T>.OnMessageReceived
+  fullName.vb: URVisualization.Controller(Of T).OnMessageReceived
+  nameWithType: Controller<T>.OnMessageReceived
+  nameWithType.vb: Controller(Of T).OnMessageReceived
+- uid: URVisualization.Controller`1.acceleration
+  name: acceleration
+  href: api/URVisualization.Controller-1.html#URVisualization_Controller_1_acceleration
+  commentId: F:URVisualization.Controller`1.acceleration
+  fullName: URVisualization.Controller<T>.acceleration
+  fullName.vb: URVisualization.Controller(Of T).acceleration
+  nameWithType: Controller<T>.acceleration
+  nameWithType.vb: Controller(Of T).acceleration
+- uid: URVisualization.Controller`1.articulationChain
+  name: articulationChain
+  href: api/URVisualization.Controller-1.html#URVisualization_Controller_1_articulationChain
+  commentId: F:URVisualization.Controller`1.articulationChain
+  fullName: URVisualization.Controller<T>.articulationChain
+  fullName.vb: URVisualization.Controller(Of T).articulationChain
+  nameWithType: Controller<T>.articulationChain
+  nameWithType.vb: Controller(Of T).articulationChain
+- uid: URVisualization.Controller`1.control
+  name: control
+  href: api/URVisualization.Controller-1.html#URVisualization_Controller_1_control
+  commentId: F:URVisualization.Controller`1.control
+  fullName: URVisualization.Controller<T>.control
+  fullName.vb: URVisualization.Controller(Of T).control
+  nameWithType: Controller<T>.control
+  nameWithType.vb: Controller(Of T).control
+- uid: URVisualization.Controller`1.damping
+  name: damping
+  href: api/URVisualization.Controller-1.html#URVisualization_Controller_1_damping
+  commentId: F:URVisualization.Controller`1.damping
+  fullName: URVisualization.Controller<T>.damping
+  fullName.vb: URVisualization.Controller(Of T).damping
+  nameWithType: Controller<T>.damping
+  nameWithType.vb: Controller(Of T).damping
+- uid: URVisualization.Controller`1.driveType
+  name: driveType
+  href: api/URVisualization.Controller-1.html#URVisualization_Controller_1_driveType
+  commentId: F:URVisualization.Controller`1.driveType
+  fullName: URVisualization.Controller<T>.driveType
+  fullName.vb: URVisualization.Controller(Of T).driveType
+  nameWithType: Controller<T>.driveType
+  nameWithType.vb: Controller(Of T).driveType
+- uid: URVisualization.Controller`1.forceLimit
+  name: forceLimit
+  href: api/URVisualization.Controller-1.html#URVisualization_Controller_1_forceLimit
+  commentId: F:URVisualization.Controller`1.forceLimit
+  fullName: URVisualization.Controller<T>.forceLimit
+  fullName.vb: URVisualization.Controller(Of T).forceLimit
+  nameWithType: Controller<T>.forceLimit
+  nameWithType.vb: Controller(Of T).forceLimit
+- uid: URVisualization.Controller`1.joints
+  name: joints
+  href: api/URVisualization.Controller-1.html#URVisualization_Controller_1_joints
+  commentId: F:URVisualization.Controller`1.joints
+  fullName: URVisualization.Controller<T>.joints
+  fullName.vb: URVisualization.Controller(Of T).joints
+  nameWithType: Controller<T>.joints
+  nameWithType.vb: Controller(Of T).joints
+- uid: URVisualization.Controller`1.speed
+  name: speed
+  href: api/URVisualization.Controller-1.html#URVisualization_Controller_1_speed
+  commentId: F:URVisualization.Controller`1.speed
+  fullName: URVisualization.Controller<T>.speed
+  fullName.vb: URVisualization.Controller(Of T).speed
+  nameWithType: Controller<T>.speed
+  nameWithType.vb: Controller(Of T).speed
+- uid: URVisualization.Controller`1.stiffness
+  name: stiffness
+  href: api/URVisualization.Controller-1.html#URVisualization_Controller_1_stiffness
+  commentId: F:URVisualization.Controller`1.stiffness
+  fullName: URVisualization.Controller<T>.stiffness
+  fullName.vb: URVisualization.Controller(Of T).stiffness
+  nameWithType: Controller<T>.stiffness
+  nameWithType.vb: Controller(Of T).stiffness
+- uid: URVisualization.Controller`1.subscriber
+  name: subscriber
+  href: api/URVisualization.Controller-1.html#URVisualization_Controller_1_subscriber
+  commentId: F:URVisualization.Controller`1.subscriber
+  fullName: URVisualization.Controller<T>.subscriber
+  fullName.vb: URVisualization.Controller(Of T).subscriber
+  nameWithType: Controller<T>.subscriber
+  nameWithType.vb: Controller(Of T).subscriber
+- uid: URVisualization.Controller`1.torque
+  name: torque
+  href: api/URVisualization.Controller-1.html#URVisualization_Controller_1_torque
+  commentId: F:URVisualization.Controller`1.torque
+  fullName: URVisualization.Controller<T>.torque
+  fullName.vb: URVisualization.Controller(Of T).torque
+  nameWithType: Controller<T>.torque
+  nameWithType.vb: Controller(Of T).torque
+- uid: URVisualization.GripperSlider
+  name: GripperSlider
+  href: api/URVisualization.GripperSlider.html
+  commentId: T:URVisualization.GripperSlider
+  fullName: URVisualization.GripperSlider
+  nameWithType: GripperSlider
+- uid: URVisualization.GripperSlider.robotiqController
+  name: robotiqController
+  href: api/URVisualization.GripperSlider.html#URVisualization_GripperSlider_robotiqController
+  commentId: F:URVisualization.GripperSlider.robotiqController
+  fullName: URVisualization.GripperSlider.robotiqController
+  nameWithType: GripperSlider.robotiqController
+- uid: URVisualization.IKController
+  name: IKController
+  href: api/URVisualization.IKController.html
+  commentId: T:URVisualization.IKController
+  fullName: URVisualization.IKController
+  nameWithType: IKController
+- uid: URVisualization.IKController.articulationChain
+  name: articulationChain
+  href: api/URVisualization.IKController.html#URVisualization_IKController_articulationChain
+  commentId: F:URVisualization.IKController.articulationChain
+  fullName: URVisualization.IKController.articulationChain
+  nameWithType: IKController.articulationChain
+- uid: URVisualization.IKController.damping
+  name: damping
+  href: api/URVisualization.IKController.html#URVisualization_IKController_damping
+  commentId: F:URVisualization.IKController.damping
+  fullName: URVisualization.IKController.damping
+  nameWithType: IKController.damping
+- uid: URVisualization.IKController.forceLimit
+  name: forceLimit
+  href: api/URVisualization.IKController.html#URVisualization_IKController_forceLimit
+  commentId: F:URVisualization.IKController.forceLimit
+  fullName: URVisualization.IKController.forceLimit
+  nameWithType: IKController.forceLimit
+- uid: URVisualization.IKController.ikTarget
+  name: ikTarget
+  href: api/URVisualization.IKController.html#URVisualization_IKController_ikTarget
+  commentId: F:URVisualization.IKController.ikTarget
+  fullName: URVisualization.IKController.ikTarget
+  nameWithType: IKController.ikTarget
+- uid: URVisualization.IKController.isSolutionOverriden
+  name: isSolutionOverriden
+  href: api/URVisualization.IKController.html#URVisualization_IKController_isSolutionOverriden
+  commentId: F:URVisualization.IKController.isSolutionOverriden
+  fullName: URVisualization.IKController.isSolutionOverriden
+  nameWithType: IKController.isSolutionOverriden
+- uid: URVisualization.IKController.joints
+  name: joints
+  href: api/URVisualization.IKController.html#URVisualization_IKController_joints
+  commentId: F:URVisualization.IKController.joints
+  fullName: URVisualization.IKController.joints
+  nameWithType: IKController.joints
+- uid: URVisualization.IKController.solution
+  name: solution
+  href: api/URVisualization.IKController.html#URVisualization_IKController_solution
+  commentId: F:URVisualization.IKController.solution
+  fullName: URVisualization.IKController.solution
+  nameWithType: IKController.solution
+- uid: URVisualization.IKController.stiffness
+  name: stiffness
+  href: api/URVisualization.IKController.html#URVisualization_IKController_stiffness
+  commentId: F:URVisualization.IKController.stiffness
+  fullName: URVisualization.IKController.stiffness
+  nameWithType: IKController.stiffness
+- uid: URVisualization.IKController.thetas
+  name: thetas
+  href: api/URVisualization.IKController.html#URVisualization_IKController_thetas
+  commentId: F:URVisualization.IKController.thetas
+  fullName: URVisualization.IKController.thetas
+  nameWithType: IKController.thetas
+- uid: URVisualization.Object
+  name: Object
+  href: api/URVisualization.Object.html
+  commentId: T:URVisualization.Object
+  fullName: URVisualization.Object
+  nameWithType: Object
+- uid: URVisualization.Object.id
+  name: id
+  href: api/URVisualization.Object.html#URVisualization_Object_id
+  commentId: F:URVisualization.Object.id
+  fullName: URVisualization.Object.id
+  nameWithType: Object.id
+- uid: URVisualization.ObjectData
+  name: ObjectData
+  href: api/URVisualization.ObjectData.html
+  commentId: T:URVisualization.ObjectData
+  fullName: URVisualization.ObjectData
+  nameWithType: ObjectData
+- uid: URVisualization.ObjectData.id
+  name: id
+  href: api/URVisualization.ObjectData.html#URVisualization_ObjectData_id
+  commentId: F:URVisualization.ObjectData.id
+  fullName: URVisualization.ObjectData.id
+  nameWithType: ObjectData.id
+- uid: URVisualization.ObjectData.model
+  name: model
+  href: api/URVisualization.ObjectData.html#URVisualization_ObjectData_model
+  commentId: F:URVisualization.ObjectData.model
+  fullName: URVisualization.ObjectData.model
+  nameWithType: ObjectData.model
+- uid: URVisualization.ObjectData.pose
+  name: pose
+  href: api/URVisualization.ObjectData.html#URVisualization_ObjectData_pose
+  commentId: F:URVisualization.ObjectData.pose
+  fullName: URVisualization.ObjectData.pose
+  nameWithType: ObjectData.pose
+- uid: URVisualization.ObjectDictionary
+  name: ObjectDictionary
+  href: api/URVisualization.ObjectDictionary.html
+  commentId: T:URVisualization.ObjectDictionary
+  fullName: URVisualization.ObjectDictionary
+  nameWithType: ObjectDictionary
+- uid: URVisualization.ObjectGripManager
+  name: ObjectGripManager
+  href: api/URVisualization.ObjectGripManager.html
+  commentId: T:URVisualization.ObjectGripManager
+  fullName: URVisualization.ObjectGripManager
+  nameWithType: ObjectGripManager
+- uid: URVisualization.ObjectGripManager.GripObject
+  name: GripObject()
+  href: api/URVisualization.ObjectGripManager.html#URVisualization_ObjectGripManager_GripObject
+  commentId: M:URVisualization.ObjectGripManager.GripObject
+  fullName: URVisualization.ObjectGripManager.GripObject()
+  nameWithType: ObjectGripManager.GripObject()
+- uid: URVisualization.ObjectGripManager.GripObject(System.String)
+  name: GripObject(string)
+  href: api/URVisualization.ObjectGripManager.html#URVisualization_ObjectGripManager_GripObject_System_String_
+  commentId: M:URVisualization.ObjectGripManager.GripObject(System.String)
+  name.vb: GripObject(String)
+  fullName: URVisualization.ObjectGripManager.GripObject(string)
+  fullName.vb: URVisualization.ObjectGripManager.GripObject(String)
+  nameWithType: ObjectGripManager.GripObject(string)
+  nameWithType.vb: ObjectGripManager.GripObject(String)
+- uid: URVisualization.ObjectGripManager.GripObject*
+  name: GripObject
+  href: api/URVisualization.ObjectGripManager.html#URVisualization_ObjectGripManager_GripObject_
+  commentId: Overload:URVisualization.ObjectGripManager.GripObject
+  isSpec: "True"
+  fullName: URVisualization.ObjectGripManager.GripObject
+  nameWithType: ObjectGripManager.GripObject
+- uid: URVisualization.ObjectGripManager.ReleaseObject
+  name: ReleaseObject()
+  href: api/URVisualization.ObjectGripManager.html#URVisualization_ObjectGripManager_ReleaseObject
+  commentId: M:URVisualization.ObjectGripManager.ReleaseObject
+  fullName: URVisualization.ObjectGripManager.ReleaseObject()
+  nameWithType: ObjectGripManager.ReleaseObject()
+- uid: URVisualization.ObjectGripManager.ReleaseObject*
+  name: ReleaseObject
+  href: api/URVisualization.ObjectGripManager.html#URVisualization_ObjectGripManager_ReleaseObject_
+  commentId: Overload:URVisualization.ObjectGripManager.ReleaseObject
+  isSpec: "True"
+  fullName: URVisualization.ObjectGripManager.ReleaseObject
+  nameWithType: ObjectGripManager.ReleaseObject
+- uid: URVisualization.ObjectGripManager.gripPivot
+  name: gripPivot
+  href: api/URVisualization.ObjectGripManager.html#URVisualization_ObjectGripManager_gripPivot
+  commentId: F:URVisualization.ObjectGripManager.gripPivot
+  fullName: URVisualization.ObjectGripManager.gripPivot
+  nameWithType: ObjectGripManager.gripPivot
+- uid: URVisualization.ObjectGripManager.grippedObjId
+  name: grippedObjId
+  href: api/URVisualization.ObjectGripManager.html#URVisualization_ObjectGripManager_grippedObjId
+  commentId: F:URVisualization.ObjectGripManager.grippedObjId
+  fullName: URVisualization.ObjectGripManager.grippedObjId
+  nameWithType: ObjectGripManager.grippedObjId
+- uid: URVisualization.ObjectGripManager.objectDic
+  name: objectDic
+  href: api/URVisualization.ObjectGripManager.html#URVisualization_ObjectGripManager_objectDic
+  commentId: F:URVisualization.ObjectGripManager.objectDic
+  fullName: URVisualization.ObjectGripManager.objectDic
+  nameWithType: ObjectGripManager.objectDic
+- uid: URVisualization.ObjectGripManager.objectParent
+  name: objectParent
+  href: api/URVisualization.ObjectGripManager.html#URVisualization_ObjectGripManager_objectParent
+  commentId: F:URVisualization.ObjectGripManager.objectParent
+  fullName: URVisualization.ObjectGripManager.objectParent
+  nameWithType: ObjectGripManager.objectParent
+- uid: URVisualization.ObjectList
+  name: ObjectList
+  href: api/URVisualization.ObjectList.html
+  commentId: T:URVisualization.ObjectList
+  fullName: URVisualization.ObjectList
+  nameWithType: ObjectList
+- uid: URVisualization.ObjectList.list
+  name: list
+  href: api/URVisualization.ObjectList.html#URVisualization_ObjectList_list
+  commentId: F:URVisualization.ObjectList.list
+  fullName: URVisualization.ObjectList.list
+  nameWithType: ObjectList.list
+- uid: URVisualization.ObjectManager
+  name: ObjectManager
+  href: api/URVisualization.ObjectManager.html
+  commentId: T:URVisualization.ObjectManager
+  fullName: URVisualization.ObjectManager
+  nameWithType: ObjectManager
+- uid: URVisualization.ObjectManager.GetAllIDs
+  name: GetAllIDs()
+  href: api/URVisualization.ObjectManager.html#URVisualization_ObjectManager_GetAllIDs
+  commentId: M:URVisualization.ObjectManager.GetAllIDs
+  fullName: URVisualization.ObjectManager.GetAllIDs()
+  nameWithType: ObjectManager.GetAllIDs()
+- uid: URVisualization.ObjectManager.GetAllIDs*
+  name: GetAllIDs
+  href: api/URVisualization.ObjectManager.html#URVisualization_ObjectManager_GetAllIDs_
+  commentId: Overload:URVisualization.ObjectManager.GetAllIDs
+  isSpec: "True"
+  fullName: URVisualization.ObjectManager.GetAllIDs
+  nameWithType: ObjectManager.GetAllIDs
+- uid: URVisualization.ObjectManager.GripObject(System.String)
+  name: GripObject(string)
+  href: api/URVisualization.ObjectManager.html#URVisualization_ObjectManager_GripObject_System_String_
+  commentId: M:URVisualization.ObjectManager.GripObject(System.String)
+  name.vb: GripObject(String)
+  fullName: URVisualization.ObjectManager.GripObject(string)
+  fullName.vb: URVisualization.ObjectManager.GripObject(String)
+  nameWithType: ObjectManager.GripObject(string)
+  nameWithType.vb: ObjectManager.GripObject(String)
+- uid: URVisualization.ObjectManager.GripObject*
+  name: GripObject
+  href: api/URVisualization.ObjectManager.html#URVisualization_ObjectManager_GripObject_
+  commentId: Overload:URVisualization.ObjectManager.GripObject
+  isSpec: "True"
+  fullName: URVisualization.ObjectManager.GripObject
+  nameWithType: ObjectManager.GripObject
+- uid: URVisualization.ObjectManager.ObjectDictionary
+  name: ObjectManager.ObjectDictionary
+  href: api/URVisualization.ObjectManager.ObjectDictionary.html
+  commentId: T:URVisualization.ObjectManager.ObjectDictionary
+  fullName: URVisualization.ObjectManager.ObjectDictionary
+  nameWithType: ObjectManager.ObjectDictionary
+- uid: URVisualization.ObjectManager.ReleaseObject
+  name: ReleaseObject()
+  href: api/URVisualization.ObjectManager.html#URVisualization_ObjectManager_ReleaseObject
+  commentId: M:URVisualization.ObjectManager.ReleaseObject
+  fullName: URVisualization.ObjectManager.ReleaseObject()
+  nameWithType: ObjectManager.ReleaseObject()
+- uid: URVisualization.ObjectManager.ReleaseObject*
+  name: ReleaseObject
+  href: api/URVisualization.ObjectManager.html#URVisualization_ObjectManager_ReleaseObject_
+  commentId: Overload:URVisualization.ObjectManager.ReleaseObject
+  isSpec: "True"
+  fullName: URVisualization.ObjectManager.ReleaseObject
+  nameWithType: ObjectManager.ReleaseObject
+- uid: URVisualization.ObjectManager.gripPivot
+  name: gripPivot
+  href: api/URVisualization.ObjectManager.html#URVisualization_ObjectManager_gripPivot
+  commentId: F:URVisualization.ObjectManager.gripPivot
+  fullName: URVisualization.ObjectManager.gripPivot
+  nameWithType: ObjectManager.gripPivot
+- uid: URVisualization.ObjectManager.objectList
+  name: objectList
+  href: api/URVisualization.ObjectManager.html#URVisualization_ObjectManager_objectList
+  commentId: F:URVisualization.ObjectManager.objectList
+  fullName: URVisualization.ObjectManager.objectList
+  nameWithType: ObjectManager.objectList
+- uid: URVisualization.ObjectManager.objectParent
+  name: objectParent
+  href: api/URVisualization.ObjectManager.html#URVisualization_ObjectManager_objectParent
+  commentId: F:URVisualization.ObjectManager.objectParent
+  fullName: URVisualization.ObjectManager.objectParent
+  nameWithType: ObjectManager.objectParent
+- uid: URVisualization.ObjectSpawner
+  name: ObjectSpawner
+  href: api/URVisualization.ObjectSpawner.html
+  commentId: T:URVisualization.ObjectSpawner
+  fullName: URVisualization.ObjectSpawner
+  nameWithType: ObjectSpawner
+- uid: URVisualization.ObjectSpawner.list
+  name: list
+  href: api/URVisualization.ObjectSpawner.html#URVisualization_ObjectSpawner_list
+  commentId: F:URVisualization.ObjectSpawner.list
+  fullName: URVisualization.ObjectSpawner.list
+  nameWithType: ObjectSpawner.list
+- uid: URVisualization.ObjectSpawner.objectParent
+  name: objectParent
+  href: api/URVisualization.ObjectSpawner.html#URVisualization_ObjectSpawner_objectParent
+  commentId: F:URVisualization.ObjectSpawner.objectParent
+  fullName: URVisualization.ObjectSpawner.objectParent
+  nameWithType: ObjectSpawner.objectParent
+- uid: URVisualization.ROS
+  name: URVisualization.ROS
+  href: api/URVisualization.ROS.html
+  commentId: N:URVisualization.ROS
+  fullName: URVisualization.ROS
+  nameWithType: URVisualization.ROS
+- uid: URVisualization.ROS.GripPublisher
+  name: GripPublisher
+  href: api/URVisualization.ROS.GripPublisher.html
+  commentId: T:URVisualization.ROS.GripPublisher
+  fullName: URVisualization.ROS.GripPublisher
+  nameWithType: GripPublisher
+- uid: URVisualization.ROS.GripPublisher.PrepareMessage
+  name: PrepareMessage()
+  href: api/URVisualization.ROS.GripPublisher.html#URVisualization_ROS_GripPublisher_PrepareMessage
+  commentId: M:URVisualization.ROS.GripPublisher.PrepareMessage
+  fullName: URVisualization.ROS.GripPublisher.PrepareMessage()
+  nameWithType: GripPublisher.PrepareMessage()
+- uid: URVisualization.ROS.GripPublisher.PrepareMessage*
+  name: PrepareMessage
+  href: api/URVisualization.ROS.GripPublisher.html#URVisualization_ROS_GripPublisher_PrepareMessage_
+  commentId: Overload:URVisualization.ROS.GripPublisher.PrepareMessage
+  isSpec: "True"
+  fullName: URVisualization.ROS.GripPublisher.PrepareMessage
+  nameWithType: GripPublisher.PrepareMessage
+- uid: URVisualization.ROS.GripPublisher.id
+  name: id
+  href: api/URVisualization.ROS.GripPublisher.html#URVisualization_ROS_GripPublisher_id
+  commentId: F:URVisualization.ROS.GripPublisher.id
+  fullName: URVisualization.ROS.GripPublisher.id
+  nameWithType: GripPublisher.id
+- uid: URVisualization.ROS.GripPublisher.isGrip
+  name: isGrip
+  href: api/URVisualization.ROS.GripPublisher.html#URVisualization_ROS_GripPublisher_isGrip
+  commentId: F:URVisualization.ROS.GripPublisher.isGrip
+  fullName: URVisualization.ROS.GripPublisher.isGrip
+  nameWithType: GripPublisher.isGrip
+- uid: URVisualization.ROS.GripSubscriber
+  name: GripSubscriber
+  href: api/URVisualization.ROS.GripSubscriber.html
+  commentId: T:URVisualization.ROS.GripSubscriber
+  fullName: URVisualization.ROS.GripSubscriber
+  nameWithType: GripSubscriber
+- uid: URVisualization.ROS.Publisher`1
+  name: Publisher<T>
+  href: api/URVisualization.ROS.Publisher-1.html
+  commentId: T:URVisualization.ROS.Publisher`1
+  name.vb: Publisher(Of T)
+  fullName: URVisualization.ROS.Publisher<T>
+  fullName.vb: URVisualization.ROS.Publisher(Of T)
+  nameWithType: Publisher<T>
+  nameWithType.vb: Publisher(Of T)
+- uid: URVisualization.ROS.Publisher`1.PrepareMessage
+  name: PrepareMessage()
+  href: api/URVisualization.ROS.Publisher-1.html#URVisualization_ROS_Publisher_1_PrepareMessage
+  commentId: M:URVisualization.ROS.Publisher`1.PrepareMessage
+  fullName: URVisualization.ROS.Publisher<T>.PrepareMessage()
+  fullName.vb: URVisualization.ROS.Publisher(Of T).PrepareMessage()
+  nameWithType: Publisher<T>.PrepareMessage()
+  nameWithType.vb: Publisher(Of T).PrepareMessage()
+- uid: URVisualization.ROS.Publisher`1.PrepareMessage*
+  name: PrepareMessage
+  href: api/URVisualization.ROS.Publisher-1.html#URVisualization_ROS_Publisher_1_PrepareMessage_
+  commentId: Overload:URVisualization.ROS.Publisher`1.PrepareMessage
+  isSpec: "True"
+  fullName: URVisualization.ROS.Publisher<T>.PrepareMessage
+  fullName.vb: URVisualization.ROS.Publisher(Of T).PrepareMessage
+  nameWithType: Publisher<T>.PrepareMessage
+  nameWithType.vb: Publisher(Of T).PrepareMessage
+- uid: URVisualization.ROS.Publisher`1.Publish
+  name: Publish()
+  href: api/URVisualization.ROS.Publisher-1.html#URVisualization_ROS_Publisher_1_Publish
+  commentId: M:URVisualization.ROS.Publisher`1.Publish
+  fullName: URVisualization.ROS.Publisher<T>.Publish()
+  fullName.vb: URVisualization.ROS.Publisher(Of T).Publish()
+  nameWithType: Publisher<T>.Publish()
+  nameWithType.vb: Publisher(Of T).Publish()
+- uid: URVisualization.ROS.Publisher`1.Publish*
+  name: Publish
+  href: api/URVisualization.ROS.Publisher-1.html#URVisualization_ROS_Publisher_1_Publish_
+  commentId: Overload:URVisualization.ROS.Publisher`1.Publish
+  isSpec: "True"
+  fullName: URVisualization.ROS.Publisher<T>.Publish
+  fullName.vb: URVisualization.ROS.Publisher(Of T).Publish
+  nameWithType: Publisher<T>.Publish
+  nameWithType.vb: Publisher(Of T).Publish
+- uid: URVisualization.ROS.Publisher`1.debugPublish
+  name: debugPublish
+  href: api/URVisualization.ROS.Publisher-1.html#URVisualization_ROS_Publisher_1_debugPublish
+  commentId: F:URVisualization.ROS.Publisher`1.debugPublish
+  fullName: URVisualization.ROS.Publisher<T>.debugPublish
+  fullName.vb: URVisualization.ROS.Publisher(Of T).debugPublish
+  nameWithType: Publisher<T>.debugPublish
+  nameWithType.vb: Publisher(Of T).debugPublish
+- uid: URVisualization.ROS.Publisher`1.isPublish
+  name: isPublish
+  href: api/URVisualization.ROS.Publisher-1.html#URVisualization_ROS_Publisher_1_isPublish
+  commentId: F:URVisualization.ROS.Publisher`1.isPublish
+  fullName: URVisualization.ROS.Publisher<T>.isPublish
+  fullName.vb: URVisualization.ROS.Publisher(Of T).isPublish
+  nameWithType: Publisher<T>.isPublish
+  nameWithType.vb: Publisher(Of T).isPublish
+- uid: URVisualization.ROS.Publisher`1.publishMessageFrequency
+  name: publishMessageFrequency
+  href: api/URVisualization.ROS.Publisher-1.html#URVisualization_ROS_Publisher_1_publishMessageFrequency
+  commentId: F:URVisualization.ROS.Publisher`1.publishMessageFrequency
+  fullName: URVisualization.ROS.Publisher<T>.publishMessageFrequency
+  fullName.vb: URVisualization.ROS.Publisher(Of T).publishMessageFrequency
+  nameWithType: Publisher<T>.publishMessageFrequency
+  nameWithType.vb: Publisher(Of T).publishMessageFrequency
+- uid: URVisualization.ROS.RobotiqPublisher
+  name: RobotiqPublisher
+  href: api/URVisualization.ROS.RobotiqPublisher.html
+  commentId: T:URVisualization.ROS.RobotiqPublisher
+  fullName: URVisualization.ROS.RobotiqPublisher
+  nameWithType: RobotiqPublisher
+- uid: URVisualization.ROS.RobotiqPublisher.PrepareMessage
+  name: PrepareMessage()
+  href: api/URVisualization.ROS.RobotiqPublisher.html#URVisualization_ROS_RobotiqPublisher_PrepareMessage
+  commentId: M:URVisualization.ROS.RobotiqPublisher.PrepareMessage
+  fullName: URVisualization.ROS.RobotiqPublisher.PrepareMessage()
+  nameWithType: RobotiqPublisher.PrepareMessage()
+- uid: URVisualization.ROS.RobotiqPublisher.PrepareMessage*
+  name: PrepareMessage
+  href: api/URVisualization.ROS.RobotiqPublisher.html#URVisualization_ROS_RobotiqPublisher_PrepareMessage_
+  commentId: Overload:URVisualization.ROS.RobotiqPublisher.PrepareMessage
+  isSpec: "True"
+  fullName: URVisualization.ROS.RobotiqPublisher.PrepareMessage
+  nameWithType: RobotiqPublisher.PrepareMessage
+- uid: URVisualization.ROS.RobotiqPublisher.grip
+  name: grip
+  href: api/URVisualization.ROS.RobotiqPublisher.html#URVisualization_ROS_RobotiqPublisher_grip
+  commentId: F:URVisualization.ROS.RobotiqPublisher.grip
+  fullName: URVisualization.ROS.RobotiqPublisher.grip
+  nameWithType: RobotiqPublisher.grip
+- uid: URVisualization.ROS.RobotiqPublisher.gripperName
+  name: gripperName
+  href: api/URVisualization.ROS.RobotiqPublisher.html#URVisualization_ROS_RobotiqPublisher_gripperName
+  commentId: F:URVisualization.ROS.RobotiqPublisher.gripperName
+  fullName: URVisualization.ROS.RobotiqPublisher.gripperName
+  nameWithType: RobotiqPublisher.gripperName
+- uid: URVisualization.ROS.RobotiqSubscriber
+  name: RobotiqSubscriber
+  href: api/URVisualization.ROS.RobotiqSubscriber.html
+  commentId: T:URVisualization.ROS.RobotiqSubscriber
+  fullName: URVisualization.ROS.RobotiqSubscriber
+  nameWithType: RobotiqSubscriber
+- uid: URVisualization.ROS.Subscriber`1
+  name: Subscriber<T>
+  href: api/URVisualization.ROS.Subscriber-1.html
+  commentId: T:URVisualization.ROS.Subscriber`1
+  name.vb: Subscriber(Of T)
+  fullName: URVisualization.ROS.Subscriber<T>
+  fullName.vb: URVisualization.ROS.Subscriber(Of T)
+  nameWithType: Subscriber<T>
+  nameWithType.vb: Subscriber(Of T)
+- uid: URVisualization.ROS.Subscriber`1.debugSubscribe
+  name: debugSubscribe
+  href: api/URVisualization.ROS.Subscriber-1.html#URVisualization_ROS_Subscriber_1_debugSubscribe
+  commentId: F:URVisualization.ROS.Subscriber`1.debugSubscribe
+  fullName: URVisualization.ROS.Subscriber<T>.debugSubscribe
+  fullName.vb: URVisualization.ROS.Subscriber(Of T).debugSubscribe
+  nameWithType: Subscriber<T>.debugSubscribe
+  nameWithType.vb: Subscriber(Of T).debugSubscribe
+- uid: URVisualization.ROS.Subscriber`1.messageReceived
+  name: messageReceived
+  href: api/URVisualization.ROS.Subscriber-1.html#URVisualization_ROS_Subscriber_1_messageReceived
+  commentId: F:URVisualization.ROS.Subscriber`1.messageReceived
+  fullName: URVisualization.ROS.Subscriber<T>.messageReceived
+  fullName.vb: URVisualization.ROS.Subscriber(Of T).messageReceived
+  nameWithType: Subscriber<T>.messageReceived
+  nameWithType.vb: Subscriber(Of T).messageReceived
+- uid: URVisualization.ROS.Subscriber`1.topic
+  name: topic
+  href: api/URVisualization.ROS.Subscriber-1.html#URVisualization_ROS_Subscriber_1_topic
+  commentId: F:URVisualization.ROS.Subscriber`1.topic
+  fullName: URVisualization.ROS.Subscriber<T>.topic
+  fullName.vb: URVisualization.ROS.Subscriber(Of T).topic
+  nameWithType: Subscriber<T>.topic
+  nameWithType.vb: Subscriber(Of T).topic
+- uid: URVisualization.ROS.URPublisher
+  name: URPublisher
+  href: api/URVisualization.ROS.URPublisher.html
+  commentId: T:URVisualization.ROS.URPublisher
+  fullName: URVisualization.ROS.URPublisher
+  nameWithType: URPublisher
+- uid: URVisualization.ROS.URPublisher.PrepareMessage
+  name: PrepareMessage()
+  href: api/URVisualization.ROS.URPublisher.html#URVisualization_ROS_URPublisher_PrepareMessage
+  commentId: M:URVisualization.ROS.URPublisher.PrepareMessage
+  fullName: URVisualization.ROS.URPublisher.PrepareMessage()
+  nameWithType: URPublisher.PrepareMessage()
+- uid: URVisualization.ROS.URPublisher.PrepareMessage*
+  name: PrepareMessage
+  href: api/URVisualization.ROS.URPublisher.html#URVisualization_ROS_URPublisher_PrepareMessage_
+  commentId: Overload:URVisualization.ROS.URPublisher.PrepareMessage
+  isSpec: "True"
+  fullName: URVisualization.ROS.URPublisher.PrepareMessage
+  nameWithType: URPublisher.PrepareMessage
+- uid: URVisualization.ROS.URPublisher.jointAngles
+  name: jointAngles
+  href: api/URVisualization.ROS.URPublisher.html#URVisualization_ROS_URPublisher_jointAngles
+  commentId: F:URVisualization.ROS.URPublisher.jointAngles
+  fullName: URVisualization.ROS.URPublisher.jointAngles
+  nameWithType: URPublisher.jointAngles
+- uid: URVisualization.ROS.URPublisher.jointNames
+  name: jointNames
+  href: api/URVisualization.ROS.URPublisher.html#URVisualization_ROS_URPublisher_jointNames
+  commentId: F:URVisualization.ROS.URPublisher.jointNames
+  fullName: URVisualization.ROS.URPublisher.jointNames
+  nameWithType: URPublisher.jointNames
+- uid: URVisualization.ROS.URSubscriber
+  name: URSubscriber
+  href: api/URVisualization.ROS.URSubscriber.html
+  commentId: T:URVisualization.ROS.URSubscriber
+  fullName: URVisualization.ROS.URSubscriber
+  nameWithType: URSubscriber
+- uid: URVisualization.ROSPublisher
+  name: ROSPublisher
+  href: api/URVisualization.ROSPublisher.html
+  commentId: T:URVisualization.ROSPublisher
+  fullName: URVisualization.ROSPublisher
+  nameWithType: ROSPublisher
+- uid: URVisualization.ROSPublisher.debugPublish
+  name: debugPublish
+  href: api/URVisualization.ROSPublisher.html#URVisualization_ROSPublisher_debugPublish
+  commentId: F:URVisualization.ROSPublisher.debugPublish
+  fullName: URVisualization.ROSPublisher.debugPublish
+  nameWithType: ROSPublisher.debugPublish
+- uid: URVisualization.ROSPublisher.isPublish
+  name: isPublish
+  href: api/URVisualization.ROSPublisher.html#URVisualization_ROSPublisher_isPublish
+  commentId: F:URVisualization.ROSPublisher.isPublish
+  fullName: URVisualization.ROSPublisher.isPublish
+  nameWithType: ROSPublisher.isPublish
+- uid: URVisualization.ROSPublisher.jointNames
+  name: jointNames
+  href: api/URVisualization.ROSPublisher.html#URVisualization_ROSPublisher_jointNames
+  commentId: F:URVisualization.ROSPublisher.jointNames
+  fullName: URVisualization.ROSPublisher.jointNames
+  nameWithType: ROSPublisher.jointNames
+- uid: URVisualization.ROSPublisher.publishMessageFrequency
+  name: publishMessageFrequency
+  href: api/URVisualization.ROSPublisher.html#URVisualization_ROSPublisher_publishMessageFrequency
+  commentId: F:URVisualization.ROSPublisher.publishMessageFrequency
+  fullName: URVisualization.ROSPublisher.publishMessageFrequency
+  nameWithType: ROSPublisher.publishMessageFrequency
+- uid: URVisualization.ROSPublisher.robotiqController
+  name: robotiqController
+  href: api/URVisualization.ROSPublisher.html#URVisualization_ROSPublisher_robotiqController
+  commentId: F:URVisualization.ROSPublisher.robotiqController
+  fullName: URVisualization.ROSPublisher.robotiqController
+  nameWithType: ROSPublisher.robotiqController
+- uid: URVisualization.ROSPublisher.urController
+  name: urController
+  href: api/URVisualization.ROSPublisher.html#URVisualization_ROSPublisher_urController
+  commentId: F:URVisualization.ROSPublisher.urController
+  fullName: URVisualization.ROSPublisher.urController
+  nameWithType: ROSPublisher.urController
+- uid: URVisualization.ROSSubscriber
+  name: ROSSubscriber
+  href: api/URVisualization.RosSubscriber.html
+  commentId: T:URVisualization.ROSSubscriber
+  fullName: URVisualization.ROSSubscriber
+  nameWithType: ROSSubscriber
+- uid: URVisualization.ROSSubscriber.debugSubscribe
+  name: debugSubscribe
+  href: api/URVisualization.RosSubscriber.html#URVisualization_ROSSubscriber_debugSubscribe
+  commentId: F:URVisualization.ROSSubscriber.debugSubscribe
+  fullName: URVisualization.ROSSubscriber.debugSubscribe
+  nameWithType: ROSSubscriber.debugSubscribe
+- uid: URVisualization.ROSSubscriber.gripperTopic
+  name: gripperTopic
+  href: api/URVisualization.RosSubscriber.html#URVisualization_ROSSubscriber_gripperTopic
+  commentId: F:URVisualization.ROSSubscriber.gripperTopic
+  fullName: URVisualization.ROSSubscriber.gripperTopic
+  nameWithType: ROSSubscriber.gripperTopic
+- uid: URVisualization.ROSSubscriber.robotiqController
+  name: robotiqController
+  href: api/URVisualization.RosSubscriber.html#URVisualization_ROSSubscriber_robotiqController
+  commentId: F:URVisualization.ROSSubscriber.robotiqController
+  fullName: URVisualization.ROSSubscriber.robotiqController
+  nameWithType: ROSSubscriber.robotiqController
+- uid: URVisualization.ROSSubscriber.urController
+  name: urController
+  href: api/URVisualization.RosSubscriber.html#URVisualization_ROSSubscriber_urController
+  commentId: F:URVisualization.ROSSubscriber.urController
+  fullName: URVisualization.ROSSubscriber.urController
+  nameWithType: ROSSubscriber.urController
+- uid: URVisualization.ROSSubscriber.urTopic
+  name: urTopic
+  href: api/URVisualization.RosSubscriber.html#URVisualization_ROSSubscriber_urTopic
+  commentId: F:URVisualization.ROSSubscriber.urTopic
+  fullName: URVisualization.ROSSubscriber.urTopic
+  nameWithType: ROSSubscriber.urTopic
+- uid: URVisualization.RobotiqController
+  name: RobotiqController
+  href: api/URVisualization.RobotiqController.html
+  commentId: T:URVisualization.RobotiqController
+  fullName: URVisualization.RobotiqController
+  nameWithType: RobotiqController
+- uid: URVisualization.RobotiqController.OnMessageReceived(JointStateMsg)
+  name: OnMessageReceived(JointStateMsg)
+  href: api/URVisualization.RobotiqController.html#URVisualization_RobotiqController_OnMessageReceived_JointStateMsg_
+  commentId: M:URVisualization.RobotiqController.OnMessageReceived(JointStateMsg)
+  fullName: URVisualization.RobotiqController.OnMessageReceived(JointStateMsg)
+  nameWithType: RobotiqController.OnMessageReceived(JointStateMsg)
+- uid: URVisualization.RobotiqController.OnMessageReceived*
+  name: OnMessageReceived
+  href: api/URVisualization.RobotiqController.html#URVisualization_RobotiqController_OnMessageReceived_
+  commentId: Overload:URVisualization.RobotiqController.OnMessageReceived
+  isSpec: "True"
+  fullName: URVisualization.RobotiqController.OnMessageReceived
+  nameWithType: RobotiqController.OnMessageReceived
+- uid: URVisualization.RobotiqController.SetGrip(System.Single)
+  name: SetGrip(float)
+  href: api/URVisualization.RobotiqController.html#URVisualization_RobotiqController_SetGrip_System_Single_
+  commentId: M:URVisualization.RobotiqController.SetGrip(System.Single)
+  name.vb: SetGrip(Single)
+  fullName: URVisualization.RobotiqController.SetGrip(float)
+  fullName.vb: URVisualization.RobotiqController.SetGrip(Single)
+  nameWithType: RobotiqController.SetGrip(float)
+  nameWithType.vb: RobotiqController.SetGrip(Single)
+- uid: URVisualization.RobotiqController.SetGrip*
+  name: SetGrip
+  href: api/URVisualization.RobotiqController.html#URVisualization_RobotiqController_SetGrip_
+  commentId: Overload:URVisualization.RobotiqController.SetGrip
+  isSpec: "True"
+  fullName: URVisualization.RobotiqController.SetGrip
+  nameWithType: RobotiqController.SetGrip
+- uid: URVisualization.UI
+  name: URVisualization.UI
+  href: api/URVisualization.UI.html
+  commentId: N:URVisualization.UI
+  fullName: URVisualization.UI
+  nameWithType: URVisualization.UI
+- uid: URVisualization.UI.CameraControlButton
+  name: CameraControlButton
+  href: api/URVisualization.UI.CameraControlButton.html
+  commentId: T:URVisualization.UI.CameraControlButton
+  fullName: URVisualization.UI.CameraControlButton
+  nameWithType: CameraControlButton
+- uid: URVisualization.UI.CameraControlButton.OnPointerDown(PointerEventData)
+  name: OnPointerDown(PointerEventData)
+  href: api/URVisualization.UI.CameraControlButton.html#URVisualization_UI_CameraControlButton_OnPointerDown_PointerEventData_
+  commentId: M:URVisualization.UI.CameraControlButton.OnPointerDown(PointerEventData)
+  fullName: URVisualization.UI.CameraControlButton.OnPointerDown(PointerEventData)
+  nameWithType: CameraControlButton.OnPointerDown(PointerEventData)
+- uid: URVisualization.UI.CameraControlButton.OnPointerDown*
+  name: OnPointerDown
+  href: api/URVisualization.UI.CameraControlButton.html#URVisualization_UI_CameraControlButton_OnPointerDown_
+  commentId: Overload:URVisualization.UI.CameraControlButton.OnPointerDown
+  isSpec: "True"
+  fullName: URVisualization.UI.CameraControlButton.OnPointerDown
+  nameWithType: CameraControlButton.OnPointerDown
+- uid: URVisualization.UI.CameraControlButton.OnPointerUp(PointerEventData)
+  name: OnPointerUp(PointerEventData)
+  href: api/URVisualization.UI.CameraControlButton.html#URVisualization_UI_CameraControlButton_OnPointerUp_PointerEventData_
+  commentId: M:URVisualization.UI.CameraControlButton.OnPointerUp(PointerEventData)
+  fullName: URVisualization.UI.CameraControlButton.OnPointerUp(PointerEventData)
+  nameWithType: CameraControlButton.OnPointerUp(PointerEventData)
+- uid: URVisualization.UI.CameraControlButton.OnPointerUp*
+  name: OnPointerUp
+  href: api/URVisualization.UI.CameraControlButton.html#URVisualization_UI_CameraControlButton_OnPointerUp_
+  commentId: Overload:URVisualization.UI.CameraControlButton.OnPointerUp
+  isSpec: "True"
+  fullName: URVisualization.UI.CameraControlButton.OnPointerUp
+  nameWithType: CameraControlButton.OnPointerUp
+- uid: URVisualization.UI.CameraControlButton.controlType
+  name: controlType
+  href: api/URVisualization.UI.CameraControlButton.html#URVisualization_UI_CameraControlButton_controlType
+  commentId: F:URVisualization.UI.CameraControlButton.controlType
+  fullName: URVisualization.UI.CameraControlButton.controlType
+  nameWithType: CameraControlButton.controlType
+- uid: URVisualization.UI.CameraControlButton.isPressed
+  name: isPressed
+  href: api/URVisualization.UI.CameraControlButton.html#URVisualization_UI_CameraControlButton_isPressed
+  commentId: F:URVisualization.UI.CameraControlButton.isPressed
+  fullName: URVisualization.UI.CameraControlButton.isPressed
+  nameWithType: CameraControlButton.isPressed
+- uid: URVisualization.UI.CameraControlType
+  name: CameraControlType
+  href: api/URVisualization.UI.CameraControlType.html
+  commentId: T:URVisualization.UI.CameraControlType
+  fullName: URVisualization.UI.CameraControlType
+  nameWithType: CameraControlType
+- uid: URVisualization.UI.CameraControlType.Down
+  name: Down
+  href: api/URVisualization.UI.CameraControlType.html#URVisualization_UI_CameraControlType_Down
+  commentId: F:URVisualization.UI.CameraControlType.Down
+  fullName: URVisualization.UI.CameraControlType.Down
+  nameWithType: CameraControlType.Down
+- uid: URVisualization.UI.CameraControlType.Left
+  name: Left
+  href: api/URVisualization.UI.CameraControlType.html#URVisualization_UI_CameraControlType_Left
+  commentId: F:URVisualization.UI.CameraControlType.Left
+  fullName: URVisualization.UI.CameraControlType.Left
+  nameWithType: CameraControlType.Left
+- uid: URVisualization.UI.CameraControlType.Right
+  name: Right
+  href: api/URVisualization.UI.CameraControlType.html#URVisualization_UI_CameraControlType_Right
+  commentId: F:URVisualization.UI.CameraControlType.Right
+  fullName: URVisualization.UI.CameraControlType.Right
+  nameWithType: CameraControlType.Right
+- uid: URVisualization.UI.CameraControlType.Up
+  name: Up
+  href: api/URVisualization.UI.CameraControlType.html#URVisualization_UI_CameraControlType_Up
+  commentId: F:URVisualization.UI.CameraControlType.Up
+  fullName: URVisualization.UI.CameraControlType.Up
+  nameWithType: CameraControlType.Up
+- uid: URVisualization.UI.CameraControlType.ZoomIn
+  name: ZoomIn
+  href: api/URVisualization.UI.CameraControlType.html#URVisualization_UI_CameraControlType_ZoomIn
+  commentId: F:URVisualization.UI.CameraControlType.ZoomIn
+  fullName: URVisualization.UI.CameraControlType.ZoomIn
+  nameWithType: CameraControlType.ZoomIn
+- uid: URVisualization.UI.CameraControlType.ZoomOut
+  name: ZoomOut
+  href: api/URVisualization.UI.CameraControlType.html#URVisualization_UI_CameraControlType_ZoomOut
+  commentId: F:URVisualization.UI.CameraControlType.ZoomOut
+  fullName: URVisualization.UI.CameraControlType.ZoomOut
+  nameWithType: CameraControlType.ZoomOut
+- uid: URVisualization.UI.CameraController
+  name: CameraController
+  href: api/URVisualization.UI.CameraController.html
+  commentId: T:URVisualization.UI.CameraController
+  fullName: URVisualization.UI.CameraController
+  nameWithType: CameraController
+- uid: URVisualization.UI.CameraController.cameraControlButtons
+  name: cameraControlButtons
+  href: api/URVisualization.UI.CameraController.html#URVisualization_UI_CameraController_cameraControlButtons
+  commentId: F:URVisualization.UI.CameraController.cameraControlButtons
+  fullName: URVisualization.UI.CameraController.cameraControlButtons
+  nameWithType: CameraController.cameraControlButtons
+- uid: URVisualization.UI.CameraController.cameras
+  name: cameras
+  href: api/URVisualization.UI.CameraController.html#URVisualization_UI_CameraController_cameras
+  commentId: F:URVisualization.UI.CameraController.cameras
+  fullName: URVisualization.UI.CameraController.cameras
+  nameWithType: CameraController.cameras
+- uid: URVisualization.UI.CameraController.rotateSpeed
+  name: rotateSpeed
+  href: api/URVisualization.UI.CameraController.html#URVisualization_UI_CameraController_rotateSpeed
+  commentId: F:URVisualization.UI.CameraController.rotateSpeed
+  fullName: URVisualization.UI.CameraController.rotateSpeed
+  nameWithType: CameraController.rotateSpeed
+- uid: URVisualization.UI.CameraController.zoomSpeed
+  name: zoomSpeed
+  href: api/URVisualization.UI.CameraController.html#URVisualization_UI_CameraController_zoomSpeed
+  commentId: F:URVisualization.UI.CameraController.zoomSpeed
+  fullName: URVisualization.UI.CameraController.zoomSpeed
+  nameWithType: CameraController.zoomSpeed
+- uid: URVisualization.UI.GripperSlider
+  name: GripperSlider
+  href: api/URVisualization.UI.GripperSlider.html
+  commentId: T:URVisualization.UI.GripperSlider
+  fullName: URVisualization.UI.GripperSlider
+  nameWithType: GripperSlider
+- uid: URVisualization.UI.GripperSlider.robotiqController
+  name: robotiqController
+  href: api/URVisualization.UI.GripperSlider.html#URVisualization_UI_GripperSlider_robotiqController
+  commentId: F:URVisualization.UI.GripperSlider.robotiqController
+  fullName: URVisualization.UI.GripperSlider.robotiqController
+  nameWithType: GripperSlider.robotiqController
+- uid: URVisualization.URController
+  name: URController
+  href: api/URVisualization.URController.html
+  commentId: T:URVisualization.URController
+  fullName: URVisualization.URController
+  nameWithType: URController
+- uid: URVisualization.URController.OnMessageReceived(JointStateMsg)
+  name: OnMessageReceived(JointStateMsg)
+  href: api/URVisualization.URController.html#URVisualization_URController_OnMessageReceived_JointStateMsg_
+  commentId: M:URVisualization.URController.OnMessageReceived(JointStateMsg)
+  fullName: URVisualization.URController.OnMessageReceived(JointStateMsg)
+  nameWithType: URController.OnMessageReceived(JointStateMsg)
+- uid: URVisualization.URController.OnMessageReceived*
+  name: OnMessageReceived
+  href: api/URVisualization.URController.html#URVisualization_URController_OnMessageReceived_
+  commentId: Overload:URVisualization.URController.OnMessageReceived
+  isSpec: "True"
+  fullName: URVisualization.URController.OnMessageReceived
+  nameWithType: URController.OnMessageReceived
+- uid: URVisualization.URController.SetJointAngles(System.Double[])
+  name: SetJointAngles(double[])
+  href: api/URVisualization.URController.html#URVisualization_URController_SetJointAngles_System_Double___
+  commentId: M:URVisualization.URController.SetJointAngles(System.Double[])
+  name.vb: SetJointAngles(Double())
+  fullName: URVisualization.URController.SetJointAngles(double[])
+  fullName.vb: URVisualization.URController.SetJointAngles(Double())
+  nameWithType: URController.SetJointAngles(double[])
+  nameWithType.vb: URController.SetJointAngles(Double())
+- uid: URVisualization.URController.SetJointAngles*
+  name: SetJointAngles
+  href: api/URVisualization.URController.html#URVisualization_URController_SetJointAngles_
+  commentId: Overload:URVisualization.URController.SetJointAngles
+  isSpec: "True"
+  fullName: URVisualization.URController.SetJointAngles
+  nameWithType: URController.SetJointAngles
+- uid: URVisualization.URForwardController
+  name: URForwardController
+  href: api/URVisualization.URForwardController.html
+  commentId: T:URVisualization.URForwardController
+  fullName: URVisualization.URForwardController
+  nameWithType: URForwardController
+- uid: URVisualization.URForwardController.articulationChain
+  name: articulationChain
+  href: api/URVisualization.URForwardController.html#URVisualization_URForwardController_articulationChain
+  commentId: F:URVisualization.URForwardController.articulationChain
+  fullName: URVisualization.URForwardController.articulationChain
+  nameWithType: URForwardController.articulationChain
+- uid: URVisualization.URForwardController.damping
+  name: damping
+  href: api/URVisualization.URForwardController.html#URVisualization_URForwardController_damping
+  commentId: F:URVisualization.URForwardController.damping
+  fullName: URVisualization.URForwardController.damping
+  nameWithType: URForwardController.damping
+- uid: URVisualization.URForwardController.forceLimit
+  name: forceLimit
+  href: api/URVisualization.URForwardController.html#URVisualization_URForwardController_forceLimit
+  commentId: F:URVisualization.URForwardController.forceLimit
+  fullName: URVisualization.URForwardController.forceLimit
+  nameWithType: URForwardController.forceLimit
+- uid: URVisualization.URForwardController.isSolutionOverriden
+  name: isSolutionOverriden
+  href: api/URVisualization.URForwardController.html#URVisualization_URForwardController_isSolutionOverriden
+  commentId: F:URVisualization.URForwardController.isSolutionOverriden
+  fullName: URVisualization.URForwardController.isSolutionOverriden
+  nameWithType: URForwardController.isSolutionOverriden
+- uid: URVisualization.URForwardController.joints
+  name: joints
+  href: api/URVisualization.URForwardController.html#URVisualization_URForwardController_joints
+  commentId: F:URVisualization.URForwardController.joints
+  fullName: URVisualization.URForwardController.joints
+  nameWithType: URForwardController.joints
+- uid: URVisualization.URForwardController.sliders
+  name: sliders
+  href: api/URVisualization.URForwardController.html#URVisualization_URForwardController_sliders
+  commentId: F:URVisualization.URForwardController.sliders
+  fullName: URVisualization.URForwardController.sliders
+  nameWithType: URForwardController.sliders
+- uid: URVisualization.URForwardController.solution
+  name: solution
+  href: api/URVisualization.URForwardController.html#URVisualization_URForwardController_solution
+  commentId: F:URVisualization.URForwardController.solution
+  fullName: URVisualization.URForwardController.solution
+  nameWithType: URForwardController.solution
+- uid: URVisualization.URForwardController.stiffness
+  name: stiffness
+  href: api/URVisualization.URForwardController.html#URVisualization_URForwardController_stiffness
+  commentId: F:URVisualization.URForwardController.stiffness
+  fullName: URVisualization.URForwardController.stiffness
+  nameWithType: URForwardController.stiffness
+- uid: URVisualization.URForwardController.thetas
+  name: thetas
+  href: api/URVisualization.URForwardController.html#URVisualization_URForwardController_thetas
+  commentId: F:URVisualization.URForwardController.thetas
+  fullName: URVisualization.URForwardController.thetas
+  nameWithType: URForwardController.thetas
+- uid: URVisualization.URKinematics
+  name: URKinematics
+  href: api/URVisualization.URKinematics.html
+  commentId: T:URVisualization.URKinematics
+  fullName: URVisualization.URKinematics
+  nameWithType: URKinematics
+- uid: URVisualization.URKinematics.ComputeFK(System.Double[],System.Double[]@,System.Double[]@)
+  name: ComputeFK(double[], out double[], out double[])
+  href: api/URVisualization.URKinematics.html#URVisualization_URKinematics_ComputeFK_System_Double___System_Double____System_Double____
+  commentId: M:URVisualization.URKinematics.ComputeFK(System.Double[],System.Double[]@,System.Double[]@)
+  name.vb: ComputeFK(Double(), Double(), Double())
+  fullName: URVisualization.URKinematics.ComputeFK(double[], out double[], out double[])
+  fullName.vb: URVisualization.URKinematics.ComputeFK(Double(), Double(), Double())
+  nameWithType: URKinematics.ComputeFK(double[], out double[], out double[])
+  nameWithType.vb: URKinematics.ComputeFK(Double(), Double(), Double())
+- uid: URVisualization.URKinematics.ComputeFK*
+  name: ComputeFK
+  href: api/URVisualization.URKinematics.html#URVisualization_URKinematics_ComputeFK_
+  commentId: Overload:URVisualization.URKinematics.ComputeFK
+  isSpec: "True"
+  fullName: URVisualization.URKinematics.ComputeFK
+  nameWithType: URKinematics.ComputeFK
+- uid: URVisualization.URKinematics.ComputeIK(System.Double[],System.Double[],System.Double[],System.Collections.Generic.List{System.Double[]}@)
+  name: ComputeIK(double[], double[], double[], out List<double[]>)
+  href: api/URVisualization.URKinematics.html#URVisualization_URKinematics_ComputeIK_System_Double___System_Double___System_Double___System_Collections_Generic_List_System_Double_____
+  commentId: M:URVisualization.URKinematics.ComputeIK(System.Double[],System.Double[],System.Double[],System.Collections.Generic.List{System.Double[]}@)
+  name.vb: ComputeIK(Double(), Double(), Double(), List(Of Double()))
+  fullName: URVisualization.URKinematics.ComputeIK(double[], double[], double[], out System.Collections.Generic.List<double[]>)
+  fullName.vb: URVisualization.URKinematics.ComputeIK(Double(), Double(), Double(), System.Collections.Generic.List(Of Double()))
+  nameWithType: URKinematics.ComputeIK(double[], double[], double[], out List<double[]>)
+  nameWithType.vb: URKinematics.ComputeIK(Double(), Double(), Double(), List(Of Double()))
+- uid: URVisualization.URKinematics.ComputeIK*
+  name: ComputeIK
+  href: api/URVisualization.URKinematics.html#URVisualization_URKinematics_ComputeIK_
+  commentId: Overload:URVisualization.URKinematics.ComputeIK
+  isSpec: "True"
+  fullName: URVisualization.URKinematics.ComputeIK
+  nameWithType: URKinematics.ComputeIK
+- uid: URVisualization.URKinematics.Forward(System.Double[],System.Double[]@)
+  name: Forward(double[], ref double[])
+  href: api/URVisualization.URKinematics.html#URVisualization_URKinematics_Forward_System_Double___System_Double____
+  commentId: M:URVisualization.URKinematics.Forward(System.Double[],System.Double[]@)
+  name.vb: Forward(Double(), Double())
+  fullName: URVisualization.URKinematics.Forward(double[], ref double[])
+  fullName.vb: URVisualization.URKinematics.Forward(Double(), Double())
+  nameWithType: URKinematics.Forward(double[], ref double[])
+  nameWithType.vb: URKinematics.Forward(Double(), Double())
+- uid: URVisualization.URKinematics.Forward*
+  name: Forward
+  href: api/URVisualization.URKinematics.html#URVisualization_URKinematics_Forward_
+  commentId: Overload:URVisualization.URKinematics.Forward
+  isSpec: "True"
+  fullName: URVisualization.URKinematics.Forward
+  nameWithType: URKinematics.Forward
+- uid: URVisualization.URKinematics.ForwardAll(System.Double[],System.Double[]@,System.Double[]@,System.Double[]@,System.Double[]@,System.Double[]@,System.Double[]@)
+  name: ForwardAll(double[], ref double[], ref double[], ref double[], ref double[], ref double[], ref double[])
+  href: api/URVisualization.URKinematics.html#URVisualization_URKinematics_ForwardAll_System_Double___System_Double____System_Double____System_Double____System_Double____System_Double____System_Double____
+  commentId: M:URVisualization.URKinematics.ForwardAll(System.Double[],System.Double[]@,System.Double[]@,System.Double[]@,System.Double[]@,System.Double[]@,System.Double[]@)
+  name.vb: ForwardAll(Double(), Double(), Double(), Double(), Double(), Double(), Double())
+  fullName: URVisualization.URKinematics.ForwardAll(double[], ref double[], ref double[], ref double[], ref double[], ref double[], ref double[])
+  fullName.vb: URVisualization.URKinematics.ForwardAll(Double(), Double(), Double(), Double(), Double(), Double(), Double())
+  nameWithType: URKinematics.ForwardAll(double[], ref double[], ref double[], ref double[], ref double[], ref double[], ref double[])
+  nameWithType.vb: URKinematics.ForwardAll(Double(), Double(), Double(), Double(), Double(), Double(), Double())
+- uid: URVisualization.URKinematics.ForwardAll*
+  name: ForwardAll
+  href: api/URVisualization.URKinematics.html#URVisualization_URKinematics_ForwardAll_
+  commentId: Overload:URVisualization.URKinematics.ForwardAll
+  isSpec: "True"
+  fullName: URVisualization.URKinematics.ForwardAll
+  nameWithType: URKinematics.ForwardAll
+- uid: URVisualization.URKinematics.FromMat44(System.Double[],System.Double[]@,System.Double[]@)
+  name: FromMat44(double[], ref double[], ref double[])
+  href: api/URVisualization.URKinematics.html#URVisualization_URKinematics_FromMat44_System_Double___System_Double____System_Double____
+  commentId: M:URVisualization.URKinematics.FromMat44(System.Double[],System.Double[]@,System.Double[]@)
+  name.vb: FromMat44(Double(), Double(), Double())
+  fullName: URVisualization.URKinematics.FromMat44(double[], ref double[], ref double[])
+  fullName.vb: URVisualization.URKinematics.FromMat44(Double(), Double(), Double())
+  nameWithType: URKinematics.FromMat44(double[], ref double[], ref double[])
+  nameWithType.vb: URKinematics.FromMat44(Double(), Double(), Double())
+- uid: URVisualization.URKinematics.FromMat44*
+  name: FromMat44
+  href: api/URVisualization.URKinematics.html#URVisualization_URKinematics_FromMat44_
+  commentId: Overload:URVisualization.URKinematics.FromMat44
+  isSpec: "True"
+  fullName: URVisualization.URKinematics.FromMat44
+  nameWithType: URKinematics.FromMat44
+- uid: URVisualization.URKinematics.Inverse(System.Double[],System.Double[]@,System.Double)
+  name: Inverse(double[], ref double[], double)
+  href: api/URVisualization.URKinematics.html#URVisualization_URKinematics_Inverse_System_Double___System_Double____System_Double_
+  commentId: M:URVisualization.URKinematics.Inverse(System.Double[],System.Double[]@,System.Double)
+  name.vb: Inverse(Double(), Double(), Double)
+  fullName: URVisualization.URKinematics.Inverse(double[], ref double[], double)
+  fullName.vb: URVisualization.URKinematics.Inverse(Double(), Double(), Double)
+  nameWithType: URKinematics.Inverse(double[], ref double[], double)
+  nameWithType.vb: URKinematics.Inverse(Double(), Double(), Double)
+- uid: URVisualization.URKinematics.Inverse*
+  name: Inverse
+  href: api/URVisualization.URKinematics.html#URVisualization_URKinematics_Inverse_
+  commentId: Overload:URVisualization.URKinematics.Inverse
+  isSpec: "True"
+  fullName: URVisualization.URKinematics.Inverse
+  nameWithType: URKinematics.Inverse
+- uid: URVisualization.URKinematics.Main(Transform,Transform)
+  name: Main(Transform, Transform)
+  href: api/URVisualization.URKinematics.html#URVisualization_URKinematics_Main_Transform_Transform_
+  commentId: M:URVisualization.URKinematics.Main(Transform,Transform)
+  fullName: URVisualization.URKinematics.Main(Transform, Transform)
+  nameWithType: URKinematics.Main(Transform, Transform)
+- uid: URVisualization.URKinematics.Main*
+  name: Main
+  href: api/URVisualization.URKinematics.html#URVisualization_URKinematics_Main_
+  commentId: Overload:URVisualization.URKinematics.Main
+  isSpec: "True"
+  fullName: URVisualization.URKinematics.Main
+  nameWithType: URKinematics.Main
+- uid: URVisualization.URKinematics.SetModel(URVisualization.URModel)
+  name: SetModel(URModel)
+  href: api/URVisualization.URKinematics.html#URVisualization_URKinematics_SetModel_URVisualization_URModel_
+  commentId: M:URVisualization.URKinematics.SetModel(URVisualization.URModel)
+  fullName: URVisualization.URKinematics.SetModel(URVisualization.URModel)
+  nameWithType: URKinematics.SetModel(URModel)
+- uid: URVisualization.URKinematics.SetModel*
+  name: SetModel
+  href: api/URVisualization.URKinematics.html#URVisualization_URKinematics_SetModel_
+  commentId: Overload:URVisualization.URKinematics.SetModel
+  isSpec: "True"
+  fullName: URVisualization.URKinematics.SetModel
+  nameWithType: URKinematics.SetModel
+- uid: URVisualization.URKinematics.ToMat44(System.Double[]@,System.Double[],System.Double[])
+  name: ToMat44(ref double[], double[], double[])
+  href: api/URVisualization.URKinematics.html#URVisualization_URKinematics_ToMat44_System_Double____System_Double___System_Double___
+  commentId: M:URVisualization.URKinematics.ToMat44(System.Double[]@,System.Double[],System.Double[])
+  name.vb: ToMat44(Double(), Double(), Double())
+  fullName: URVisualization.URKinematics.ToMat44(ref double[], double[], double[])
+  fullName.vb: URVisualization.URKinematics.ToMat44(Double(), Double(), Double())
+  nameWithType: URKinematics.ToMat44(ref double[], double[], double[])
+  nameWithType.vb: URKinematics.ToMat44(Double(), Double(), Double())
+- uid: URVisualization.URKinematics.ToMat44*
+  name: ToMat44
+  href: api/URVisualization.URKinematics.html#URVisualization_URKinematics_ToMat44_
+  commentId: Overload:URVisualization.URKinematics.ToMat44
+  isSpec: "True"
+  fullName: URVisualization.URKinematics.ToMat44
+  nameWithType: URKinematics.ToMat44
+- uid: URVisualization.URModel
+  name: URModel
+  href: api/URVisualization.URModel.html
+  commentId: T:URVisualization.URModel
+  fullName: URVisualization.URModel
+  nameWithType: URModel
+- uid: URVisualization.URModel.UR10
+  name: UR10
+  href: api/URVisualization.URModel.html#URVisualization_URModel_UR10
+  commentId: F:URVisualization.URModel.UR10
+  fullName: URVisualization.URModel.UR10
+  nameWithType: URModel.UR10
+- uid: URVisualization.URModel.UR3
+  name: UR3
+  href: api/URVisualization.URModel.html#URVisualization_URModel_UR3
+  commentId: F:URVisualization.URModel.UR3
+  fullName: URVisualization.URModel.UR3
+  nameWithType: URModel.UR3
+- uid: URVisualization.URModel.UR5
+  name: UR5
+  href: api/URVisualization.URModel.html#URVisualization_URModel_UR5
+  commentId: F:URVisualization.URModel.UR5
+  fullName: URVisualization.URModel.UR5
+  nameWithType: URModel.UR5

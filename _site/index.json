@@ -1,0 +1,337 @@
+{
+  "api/Global.AdjustTimeScale.html": {
+    "href": "api/Global.AdjustTimeScale.html",
+    "title": "Class AdjustTimeScale | UR Visualization",
+    "keywords": "Class AdjustTimeScale Namespace Global public class AdjustTimeScale : MonoBehaviour Inheritance object AdjustTimeScale"
+  },
+  "api/Global.AnySerializableDictionaryPropertyDrawer.html": {
+    "href": "api/Global.AnySerializableDictionaryPropertyDrawer.html",
+    "title": "Class AnySerializableDictionaryPropertyDrawer | UR Visualization",
+    "keywords": "Class AnySerializableDictionaryPropertyDrawer Namespace Global public class AnySerializableDictionaryPropertyDrawer : SerializableDictionaryPropertyDrawer Inheritance object SerializableDictionaryPropertyDrawer AnySerializableDictionaryPropertyDrawer Inherited Members SerializableDictionaryPropertyDrawer.IndentWidth SerializableDictionaryPropertyDrawer.OnGUI(Rect, SerializedProperty, GUIContent) SerializableDictionaryPropertyDrawer.GetPropertyHeight(SerializedProperty, GUIContent) SerializableDictionaryPropertyDrawer.GetPropertyValue(SerializedProperty)"
+  },
+  "api/Global.AnySerializableDictionaryStoragePropertyDrawer.html": {
+    "href": "api/Global.AnySerializableDictionaryStoragePropertyDrawer.html",
+    "title": "Class AnySerializableDictionaryStoragePropertyDrawer | UR Visualization",
+    "keywords": "Class AnySerializableDictionaryStoragePropertyDrawer Namespace Global public class AnySerializableDictionaryStoragePropertyDrawer : SerializableDictionaryStoragePropertyDrawer Inheritance object SerializableDictionaryStoragePropertyDrawer AnySerializableDictionaryStoragePropertyDrawer Inherited Members SerializableDictionaryStoragePropertyDrawer.OnGUI(Rect, SerializedProperty, GUIContent) SerializableDictionaryStoragePropertyDrawer.GetPropertyHeight(SerializedProperty, GUIContent)"
+  },
+  "api/Global.ColorArrayStorage.html": {
+    "href": "api/Global.ColorArrayStorage.html",
+    "title": "Class ColorArrayStorage | UR Visualization",
+    "keywords": "Class ColorArrayStorage Namespace Global [Serializable] public class ColorArrayStorage : SerializableDictionary.Storage<Color[]> Inheritance object SerializableDictionary.Storage<Color[]> ColorArrayStorage Inherited Members SerializableDictionary.Storage<Color[]>.data"
+  },
+  "api/Global.MyClass.html": {
+    "href": "api/Global.MyClass.html",
+    "title": "Class MyClass | UR Visualization",
+    "keywords": "Class MyClass Namespace Global [Serializable] public class MyClass Inheritance object MyClass Fields i public int i Field Value int str public string str Field Value string"
+  },
+  "api/Global.ObjectColorDictionary.html": {
+    "href": "api/Global.ObjectColorDictionary.html",
+    "title": "Class ObjectColorDictionary | UR Visualization",
+    "keywords": "Class ObjectColorDictionary Namespace Global [Serializable] public class ObjectColorDictionary : SerializableDictionary<UnityEngine.Object, Color>, ISerializationCallbackReceiver Inheritance object Dictionary<UnityEngine.Object, Color> SerializableDictionaryBase<UnityEngine.Object, Color, Color> SerializableDictionary<UnityEngine.Object, Color> ObjectColorDictionary Implements ISerializationCallbackReceiver Inherited Members SerializableDictionary<UnityEngine.Object, Color>.GetValue(Color[], int) SerializableDictionary<UnityEngine.Object, Color>.SetValue(Color[], int, Color) SerializableDictionaryBase<UnityEngine.Object, Color, Color>.SetValue(Color[], int, Color) SerializableDictionaryBase<UnityEngine.Object, Color, Color>.GetValue(Color[], int) SerializableDictionaryBase<UnityEngine.Object, Color, Color>.CopyFrom(IDictionary<UnityEngine.Object, Color>) SerializableDictionaryBase<UnityEngine.Object, Color, Color>.OnAfterDeserialize() SerializableDictionaryBase<UnityEngine.Object, Color, Color>.OnBeforeSerialize()"
+  },
+  "api/Global.ProximityActivate.html": {
+    "href": "api/Global.ProximityActivate.html",
+    "title": "Class ProximityActivate | UR Visualization",
+    "keywords": "Class ProximityActivate Namespace Global public class ProximityActivate : MonoBehaviour Inheritance object ProximityActivate Fields activator public Transform activator Field Value Transform activeState public bool activeState Field Value bool distance public float distance Field Value float distanceActivator public Transform distanceActivator Field Value Transform enableInfoPanel public bool enableInfoPanel Field Value bool infoIcon public GameObject infoIcon Field Value GameObject infoPanel public CanvasGroup infoPanel Field Value CanvasGroup lookAtActivator public Transform lookAtActivator Field Value Transform lookAtCamera public bool lookAtCamera Field Value bool target public CanvasGroup target Field Value CanvasGroup"
+  },
+  "api/Global.QuaternionMyClassDictionary.html": {
+    "href": "api/Global.QuaternionMyClassDictionary.html",
+    "title": "Class QuaternionMyClassDictionary | UR Visualization",
+    "keywords": "Class QuaternionMyClassDictionary Namespace Global [Serializable] public class QuaternionMyClassDictionary : SerializableDictionary<Quaternion, MyClass>, ISerializationCallbackReceiver Inheritance object Dictionary<Quaternion, MyClass> SerializableDictionaryBase<Quaternion, MyClass, MyClass> SerializableDictionary<Quaternion, MyClass> QuaternionMyClassDictionary Implements ISerializationCallbackReceiver Inherited Members SerializableDictionary<Quaternion, MyClass>.GetValue(MyClass[], int) SerializableDictionary<Quaternion, MyClass>.SetValue(MyClass[], int, MyClass) SerializableDictionaryBase<Quaternion, MyClass, MyClass>.SetValue(MyClass[], int, MyClass) SerializableDictionaryBase<Quaternion, MyClass, MyClass>.GetValue(MyClass[], int) SerializableDictionaryBase<Quaternion, MyClass, MyClass>.CopyFrom(IDictionary<Quaternion, MyClass>) SerializableDictionaryBase<Quaternion, MyClass, MyClass>.OnAfterDeserialize() SerializableDictionaryBase<Quaternion, MyClass, MyClass>.OnBeforeSerialize()"
+  },
+  "api/Global.RampAsset.html": {
+    "href": "api/Global.RampAsset.html",
+    "title": "Class RampAsset | UR Visualization",
+    "keywords": "Class RampAsset Namespace Global public class RampAsset : ScriptableObject Inheritance object RampAsset Fields gradient public Gradient gradient Field Value Gradient overwriteExisting public bool overwriteExisting Field Value bool size public int size Field Value int up public bool up Field Value bool"
+  },
+  "api/Global.RampAssetEditor.html": {
+    "href": "api/Global.RampAssetEditor.html",
+    "title": "Class RampAssetEditor | UR Visualization",
+    "keywords": "Class RampAssetEditor Namespace Global public class RampAssetEditor : Editor Inheritance object RampAssetEditor Methods OnInspectorGUI() public override void OnInspectorGUI()"
+  },
+  "api/Global.Readme.Section.html": {
+    "href": "api/Global.Readme.Section.html",
+    "title": "Class Readme.Section | UR Visualization",
+    "keywords": "Class Readme.Section Namespace Global [Serializable] public class Readme.Section Inheritance object Readme.Section Fields heading public string heading Field Value string linkText public string linkText Field Value string text public string text Field Value string url public string url Field Value string"
+  },
+  "api/Global.Readme.html": {
+    "href": "api/Global.Readme.html",
+    "title": "Class Readme | UR Visualization",
+    "keywords": "Class Readme Namespace Global public class Readme : ScriptableObject Inheritance object Readme Fields icon public Texture2D icon Field Value Texture2D loadedLayout public bool loadedLayout Field Value bool sections public Readme.Section[] sections Field Value Section[] title public string title Field Value string"
+  },
+  "api/Global.ReadmeEditor.html": {
+    "href": "api/Global.ReadmeEditor.html",
+    "title": "Class ReadmeEditor | UR Visualization",
+    "keywords": "Class ReadmeEditor Namespace Global public class ReadmeEditor : Editor Inheritance object ReadmeEditor Methods OnHeaderGUI() protected override void OnHeaderGUI() OnInspectorGUI() public override void OnInspectorGUI()"
+  },
+  "api/Global.SerializableDictionary-2.html": {
+    "href": "api/Global.SerializableDictionary-2.html",
+    "title": "Class SerializableDictionary<TKey, TValue> | UR Visualization",
+    "keywords": "Class SerializableDictionary<TKey, TValue> Namespace Global public class SerializableDictionary<TKey, TValue> : SerializableDictionaryBase<TKey, TValue, TValue>, ISerializationCallbackReceiver Type Parameters TKey TValue Inheritance object Dictionary<TKey, TValue> SerializableDictionaryBase<TKey, TValue, TValue> SerializableDictionary<TKey, TValue> Implements ISerializationCallbackReceiver Derived ObjectColorDictionary QuaternionMyClassDictionary StringStringDictionary ObjectDictionary Inherited Members SerializableDictionaryBase<TKey, TValue, TValue>.SetValue(TValue[], int, TValue) SerializableDictionaryBase<TKey, TValue, TValue>.GetValue(TValue[], int) SerializableDictionaryBase<TKey, TValue, TValue>.CopyFrom(IDictionary<TKey, TValue>) SerializableDictionaryBase<TKey, TValue, TValue>.OnAfterDeserialize() SerializableDictionaryBase<TKey, TValue, TValue>.OnBeforeSerialize() Constructors SerializableDictionary() public SerializableDictionary() SerializableDictionary(IDictionary<TKey, TValue>) public SerializableDictionary(IDictionary<TKey, TValue> dict) Parameters dict IDictionary<TKey, TValue> SerializableDictionary(SerializationInfo, StreamingContext) protected SerializableDictionary(SerializationInfo info, StreamingContext context) Parameters info SerializationInfo context StreamingContext Methods GetValue(TValue[], int) protected override TValue GetValue(TValue[] storage, int i) Parameters storage TValue[] i int Returns TValue SetValue(TValue[], int, TValue) protected override void SetValue(TValue[] storage, int i, TValue value) Parameters storage TValue[] i int value TValue"
+  },
+  "api/Global.SerializableDictionary-3.html": {
+    "href": "api/Global.SerializableDictionary-3.html",
+    "title": "Class SerializableDictionary<TKey, TValue, TValueStorage> | UR Visualization",
+    "keywords": "Class SerializableDictionary<TKey, TValue, TValueStorage> Namespace Global public class SerializableDictionary<TKey, TValue, TValueStorage> : SerializableDictionaryBase<TKey, TValue, TValueStorage>, ISerializationCallbackReceiver where TValueStorage : SerializableDictionary.Storage<TValue>, new() Type Parameters TKey TValue TValueStorage Inheritance object Dictionary<TKey, TValue> SerializableDictionaryBase<TKey, TValue, TValueStorage> SerializableDictionary<TKey, TValue, TValueStorage> Implements ISerializationCallbackReceiver Derived StringColorArrayDictionary Inherited Members SerializableDictionaryBase<TKey, TValue, TValueStorage>.SetValue(TValueStorage[], int, TValue) SerializableDictionaryBase<TKey, TValue, TValueStorage>.GetValue(TValueStorage[], int) SerializableDictionaryBase<TKey, TValue, TValueStorage>.CopyFrom(IDictionary<TKey, TValue>) SerializableDictionaryBase<TKey, TValue, TValueStorage>.OnAfterDeserialize() SerializableDictionaryBase<TKey, TValue, TValueStorage>.OnBeforeSerialize() Constructors SerializableDictionary() public SerializableDictionary() SerializableDictionary(IDictionary<TKey, TValue>) public SerializableDictionary(IDictionary<TKey, TValue> dict) Parameters dict IDictionary<TKey, TValue> SerializableDictionary(SerializationInfo, StreamingContext) protected SerializableDictionary(SerializationInfo info, StreamingContext context) Parameters info SerializationInfo context StreamingContext Methods GetValue(TValueStorage[], int) protected override TValue GetValue(TValueStorage[] storage, int i) Parameters storage TValueStorage[] i int Returns TValue SetValue(TValueStorage[], int, TValue) protected override void SetValue(TValueStorage[] storage, int i, TValue value) Parameters storage TValueStorage[] i int value TValue"
+  },
+  "api/Global.SerializableDictionary.Storage-1.html": {
+    "href": "api/Global.SerializableDictionary.Storage-1.html",
+    "title": "Class SerializableDictionary.Storage<T> | UR Visualization",
+    "keywords": "Class SerializableDictionary.Storage<T> Namespace Global public class SerializableDictionary.Storage<T> Type Parameters T Inheritance object SerializableDictionary.Storage<T> Derived ColorArrayStorage Fields data public T data Field Value T"
+  },
+  "api/Global.SerializableDictionary.html": {
+    "href": "api/Global.SerializableDictionary.html",
+    "title": "Class SerializableDictionary | UR Visualization",
+    "keywords": "Class SerializableDictionary Namespace Global public static class SerializableDictionary Inheritance object SerializableDictionary"
+  },
+  "api/Global.SerializableDictionaryBase-3.html": {
+    "href": "api/Global.SerializableDictionaryBase-3.html",
+    "title": "Class SerializableDictionaryBase<TKey, TValue, TValueStorage> | UR Visualization",
+    "keywords": "Class SerializableDictionaryBase<TKey, TValue, TValueStorage> Namespace Global public abstract class SerializableDictionaryBase<TKey, TValue, TValueStorage> : Dictionary<TKey, TValue>, ISerializationCallbackReceiver Type Parameters TKey TValue TValueStorage Inheritance object Dictionary<TKey, TValue> SerializableDictionaryBase<TKey, TValue, TValueStorage> Implements ISerializationCallbackReceiver Derived SerializableDictionary<TKey, TValue> SerializableDictionary<TKey, TValue, TValueStorage> Constructors SerializableDictionaryBase() public SerializableDictionaryBase() SerializableDictionaryBase(IDictionary<TKey, TValue>) public SerializableDictionaryBase(IDictionary<TKey, TValue> dict) Parameters dict IDictionary<TKey, TValue> SerializableDictionaryBase(SerializationInfo, StreamingContext) protected SerializableDictionaryBase(SerializationInfo info, StreamingContext context) Parameters info SerializationInfo context StreamingContext Methods CopyFrom(IDictionary<TKey, TValue>) public void CopyFrom(IDictionary<TKey, TValue> dict) Parameters dict IDictionary<TKey, TValue> GetValue(TValueStorage[], int) protected abstract TValue GetValue(TValueStorage[] storage, int i) Parameters storage TValueStorage[] i int Returns TValue OnAfterDeserialize() public void OnAfterDeserialize() OnBeforeSerialize() public void OnBeforeSerialize() SetValue(TValueStorage[], int, TValue) protected abstract void SetValue(TValueStorage[] storage, int i, TValue value) Parameters storage TValueStorage[] i int value TValue"
+  },
+  "api/Global.SerializableDictionaryExample.html": {
+    "href": "api/Global.SerializableDictionaryExample.html",
+    "title": "Class SerializableDictionaryExample | UR Visualization",
+    "keywords": "Class SerializableDictionaryExample Namespace Global public class SerializableDictionaryExample : MonoBehaviour Inheritance object SerializableDictionaryExample Fields m_objectColorArrayDictionary public StringColorArrayDictionary m_objectColorArrayDictionary Field Value StringColorArrayDictionary m_objectColorDictionary public ObjectColorDictionary m_objectColorDictionary Field Value ObjectColorDictionary Properties StringStringDictionary public IDictionary<string, string> StringStringDictionary { get; set; } Property Value IDictionary<string, string>"
+  },
+  "api/Global.SerializableDictionaryPropertyDrawer.html": {
+    "href": "api/Global.SerializableDictionaryPropertyDrawer.html",
+    "title": "Class SerializableDictionaryPropertyDrawer | UR Visualization",
+    "keywords": "Class SerializableDictionaryPropertyDrawer Namespace Global public class SerializableDictionaryPropertyDrawer : PropertyDrawer Inheritance object SerializableDictionaryPropertyDrawer Derived AnySerializableDictionaryPropertyDrawer Fields IndentWidth protected const float IndentWidth = 15 Field Value float Methods GetPropertyHeight(SerializedProperty, GUIContent) public override float GetPropertyHeight(SerializedProperty property, GUIContent label) Parameters property SerializedProperty label GUIContent Returns float GetPropertyValue(SerializedProperty) public static object GetPropertyValue(SerializedProperty p) Parameters p SerializedProperty Returns object OnGUI(Rect, SerializedProperty, GUIContent) public override void OnGUI(Rect position, SerializedProperty property, GUIContent label) Parameters position Rect property SerializedProperty label GUIContent"
+  },
+  "api/Global.SerializableDictionaryStoragePropertyDrawer.html": {
+    "href": "api/Global.SerializableDictionaryStoragePropertyDrawer.html",
+    "title": "Class SerializableDictionaryStoragePropertyDrawer | UR Visualization",
+    "keywords": "Class SerializableDictionaryStoragePropertyDrawer Namespace Global public class SerializableDictionaryStoragePropertyDrawer : PropertyDrawer Inheritance object SerializableDictionaryStoragePropertyDrawer Derived AnySerializableDictionaryStoragePropertyDrawer Methods GetPropertyHeight(SerializedProperty, GUIContent) public override float GetPropertyHeight(SerializedProperty property, GUIContent label) Parameters property SerializedProperty label GUIContent Returns float OnGUI(Rect, SerializedProperty, GUIContent) public override void OnGUI(Rect position, SerializedProperty property, GUIContent label) Parameters position Rect property SerializedProperty label GUIContent"
+  },
+  "api/Global.SimpleCharacterMotor.html": {
+    "href": "api/Global.SimpleCharacterMotor.html",
+    "title": "Class SimpleCharacterMotor | UR Visualization",
+    "keywords": "Class SimpleCharacterMotor Namespace Global public class SimpleCharacterMotor : MonoBehaviour Inheritance object SimpleCharacterMotor Fields cameraPivot public Transform cameraPivot Field Value Transform cursorLockMode public CursorLockMode cursorLockMode Field Value CursorLockMode cursorVisible public bool cursorVisible Field Value bool gravity public float gravity Field Value float invertY public bool invertY Field Value bool lookSpeed public float lookSpeed Field Value float movementAcceleration public float movementAcceleration Field Value float runSpeed public float runSpeed Field Value float walkSpeed public float walkSpeed Field Value float"
+  },
+  "api/Global.Singleton-1.html": {
+    "href": "api/Global.Singleton-1.html",
+    "title": "Class Singleton<T> | UR Visualization",
+    "keywords": "Class Singleton<T> Namespace Global public class Singleton<T> : MonoBehaviour where T : Component Type Parameters T Inheritance object Singleton<T> Derived ObjectGripManager Properties Instance public static T Instance { get; } Property Value T Methods Awake() public virtual void Awake()"
+  },
+  "api/Global.SpawnEffect.html": {
+    "href": "api/Global.SpawnEffect.html",
+    "title": "Class SpawnEffect | UR Visualization",
+    "keywords": "Class SpawnEffect Namespace Global public class SpawnEffect : MonoBehaviour Inheritance object SpawnEffect Fields fadeIn public AnimationCurve fadeIn Field Value AnimationCurve pause public float pause Field Value float spawnEffectTime public float spawnEffectTime Field Value float"
+  },
+  "api/Global.StringColorArrayDictionary.html": {
+    "href": "api/Global.StringColorArrayDictionary.html",
+    "title": "Class StringColorArrayDictionary | UR Visualization",
+    "keywords": "Class StringColorArrayDictionary Namespace Global [Serializable] public class StringColorArrayDictionary : SerializableDictionary<string, Color[], ColorArrayStorage>, ISerializationCallbackReceiver Inheritance object Dictionary<string, Color[]> SerializableDictionaryBase<string, Color[], ColorArrayStorage> SerializableDictionary<string, Color[], ColorArrayStorage> StringColorArrayDictionary Implements ISerializationCallbackReceiver Inherited Members SerializableDictionary<string, Color[], ColorArrayStorage>.GetValue(ColorArrayStorage[], int) SerializableDictionary<string, Color[], ColorArrayStorage>.SetValue(ColorArrayStorage[], int, Color[]) SerializableDictionaryBase<string, Color[], ColorArrayStorage>.CopyFrom(IDictionary<string, Color[]>) SerializableDictionaryBase<string, Color[], ColorArrayStorage>.OnAfterDeserialize() SerializableDictionaryBase<string, Color[], ColorArrayStorage>.OnBeforeSerialize()"
+  },
+  "api/Global.StringStringDictionary.html": {
+    "href": "api/Global.StringStringDictionary.html",
+    "title": "Class StringStringDictionary | UR Visualization",
+    "keywords": "Class StringStringDictionary Namespace Global [Serializable] public class StringStringDictionary : SerializableDictionary<string, string>, ISerializationCallbackReceiver Inheritance object Dictionary<string, string> SerializableDictionaryBase<string, string, string> SerializableDictionary<string, string> StringStringDictionary Implements ISerializationCallbackReceiver Inherited Members SerializableDictionary<string, string>.GetValue(string[], int) SerializableDictionary<string, string>.SetValue(string[], int, string) SerializableDictionaryBase<string, string, string>.SetValue(string[], int, string) SerializableDictionaryBase<string, string, string>.GetValue(string[], int) SerializableDictionaryBase<string, string, string>.CopyFrom(IDictionary<string, string>) SerializableDictionaryBase<string, string, string>.OnAfterDeserialize() SerializableDictionaryBase<string, string, string>.OnBeforeSerialize()"
+  },
+  "api/Global.Tester.html": {
+    "href": "api/Global.Tester.html",
+    "title": "Class Tester | UR Visualization",
+    "keywords": "Class Tester Namespace Global public class Tester : MonoBehaviour Inheritance object Tester Fields gripButton public Button gripButton Field Value Button gripPublisher public GripPublisher gripPublisher Field Value GripPublisher gripSlider public Slider gripSlider Field Value Slider idSelectDropdown public TMP_Dropdown idSelectDropdown Field Value TMP_Dropdown releaseButton public Button releaseButton Field Value Button robotiqController public RobotiqController robotiqController Field Value RobotiqController robotiqPublisher public RobotiqPublisher robotiqPublisher Field Value RobotiqPublisher urController public URController urController Field Value URController urPublisher public URPublisher urPublisher Field Value URPublisher urSliders public Slider[] urSliders Field Value Slider[]"
+  },
+  "api/Global.Utility.html": {
+    "href": "api/Global.Utility.html",
+    "title": "Class Utility | UR Visualization",
+    "keywords": "Class Utility Namespace Global public static class Utility Inheritance object Utility Methods UniqueID() public static string UniqueID() Returns string"
+  },
+  "api/Global.html": {
+    "href": "api/Global.html",
+    "title": "Namespace | UR Visualization",
+    "keywords": "Namespace Classes Tester"
+  },
+  "api/URVisualization.Controller-1.html": {
+    "href": "api/URVisualization.Controller-1.html",
+    "title": "Class Controller<T> | UR Visualization",
+    "keywords": "Class Controller<T> Namespace URVisualization Custom Controller class replace the Controller class in UrdfImporter.Control. It is for initializing the joints as ArticulationBodies. This script should be attached to the root of an articulated robot. public abstract class Controller<T> : MonoBehaviour where T : Message Type Parameters T Custom Controller class replace the Controller class in UrdfImporter.Control. It is for initializing the joints as ArticulationBodies. This script should be attached to the root of an articulated robot. Inheritance object Controller<T> Derived RobotiqController URController Fields acceleration public float acceleration Field Value float articulationChain protected ArticulationBody[] articulationChain Field Value ArticulationBody[] control public ControlType control Field Value ControlType damping public float damping Field Value float driveType public ArticulationDriveType driveType Field Value ArticulationDriveType forceLimit public float forceLimit Field Value float joints protected List<ArticulationBody> joints Field Value List<ArticulationBody> speed public float speed Field Value float stiffness public float stiffness Field Value float subscriber public Subscriber<T> subscriber Field Value Subscriber<T> torque public float torque Field Value float Methods OnMessageReceived(T) protected virtual void OnMessageReceived(T message) Parameters message T"
+  },
+  "api/URVisualization.Controller.html": {
+    "href": "api/URVisualization.Controller.html",
+    "title": "Class Controller | UR Visualization",
+    "keywords": "Class Controller Namespace URVisualization Custom Controller class replace the Controller class in UrdfImporter.Control. It is for initializing the joints as ArticulationBody. This script should be attached to the respective UR robot. public abstract class Controller : MonoBehaviour Inheritance object Controller Derived RobotiqController URController Fields acceleration public float acceleration Field Value float articulationChain protected ArticulationBody[] articulationChain Field Value ArticulationBody[] control public ControlType control Field Value ControlType damping public float damping Field Value float driveType public ArticulationDriveType driveType Field Value ArticulationDriveType forceLimit public float forceLimit Field Value float joints protected List<ArticulationBody> joints Field Value List<ArticulationBody> speed public float speed Field Value float stiffness public float stiffness Field Value float torque public float torque Field Value float Methods Update() protected virtual void Update()"
+  },
+  "api/URVisualization.GripperSlider.html": {
+    "href": "api/URVisualization.GripperSlider.html",
+    "title": "Class GripperSlider | UR Visualization",
+    "keywords": "Class GripperSlider Namespace URVisualization public class GripperSlider : MonoBehaviour Inheritance object GripperSlider Fields robotiqController public RobotiqController robotiqController Field Value RobotiqController"
+  },
+  "api/URVisualization.IKController.html": {
+    "href": "api/URVisualization.IKController.html",
+    "title": "Class IKController | UR Visualization",
+    "keywords": "Class IKController Namespace URVisualization public class IKController : MonoBehaviour Inheritance object IKController Fields articulationChain public ArticulationBody[] articulationChain Field Value ArticulationBody[] damping public float damping Field Value float forceLimit public float forceLimit Field Value float ikTarget public Transform ikTarget Field Value Transform isSolutionOverriden public bool isSolutionOverriden Field Value bool joints public List<ArticulationBody> joints Field Value List<ArticulationBody> solution [Range] public int solution Field Value int stiffness public float stiffness Field Value float thetas public double[] thetas Field Value double[]"
+  },
+  "api/URVisualization.Object.html": {
+    "href": "api/URVisualization.Object.html",
+    "title": "Class Object | UR Visualization",
+    "keywords": "Class Object Namespace URVisualization public class Object : MonoBehaviour Inheritance object Object Fields id public string id Field Value string"
+  },
+  "api/URVisualization.ObjectData.html": {
+    "href": "api/URVisualization.ObjectData.html",
+    "title": "Class ObjectData | UR Visualization",
+    "keywords": "Class ObjectData Namespace URVisualization [Serializable] public class ObjectData Inheritance object ObjectData Fields id public string id Field Value string model public GameObject model Field Value GameObject pose public Pose pose Field Value Pose"
+  },
+  "api/URVisualization.ObjectDictionary.html": {
+    "href": "api/URVisualization.ObjectDictionary.html",
+    "title": "Class ObjectDictionary | UR Visualization",
+    "keywords": "Class ObjectDictionary Namespace URVisualization public class ObjectDictionary : SerializableDictionary<string, Object> Inheritance object ObjectDictionary"
+  },
+  "api/URVisualization.ObjectGripManager.html": {
+    "href": "api/URVisualization.ObjectGripManager.html",
+    "title": "Class ObjectGripManager | UR Visualization",
+    "keywords": "Class ObjectGripManager Namespace URVisualization public class ObjectGripManager : Singleton<ObjectGripManager> Inheritance object ObjectGripManager Fields gripPivot public Transform gripPivot Field Value Transform grippedObjId public string grippedObjId Field Value string objectDic public ObjectDictionary objectDic Field Value ObjectDictionary objectParent public Transform objectParent Field Value Transform Methods GripObject() public void GripObject() GripObject(string) public void GripObject(string id) Parameters id string ReleaseObject() public void ReleaseObject()"
+  },
+  "api/URVisualization.ObjectList.html": {
+    "href": "api/URVisualization.ObjectList.html",
+    "title": "Class ObjectList | UR Visualization",
+    "keywords": "Class ObjectList Namespace URVisualization public class ObjectList : ScriptableObject Inheritance object ObjectList Fields list public List<ObjectData> list Field Value List<ObjectData>"
+  },
+  "api/URVisualization.ObjectManager.ObjectDictionary.html": {
+    "href": "api/URVisualization.ObjectManager.ObjectDictionary.html",
+    "title": "Class ObjectManager.ObjectDictionary | UR Visualization",
+    "keywords": "Class ObjectManager.ObjectDictionary Namespace URVisualization Custom SerializableDictionary. Maps the Object ID to the Object. public class ObjectManager.ObjectDictionary : SerializableDictionary<string, Object> Inheritance object ObjectManager.ObjectDictionary"
+  },
+  "api/URVisualization.ObjectManager.html": {
+    "href": "api/URVisualization.ObjectManager.html",
+    "title": "Class ObjectManager | UR Visualization",
+    "keywords": "Class ObjectManager Namespace URVisualization Manages things about the objects. It is a singleton so it can be accessed globally. public class ObjectManager : Singleton<ObjectManager> Inheritance object ObjectManager Fields gripPivot The pivot point to which the gripped object will be attached. public Transform gripPivot Field Value Transform objectList The \"Object List\" scriptable object located in Assets/Data. public ObjectList objectList Field Value ObjectList objectParent The transform containing all the objects. public Transform objectParent Field Value Transform Methods GetAllIDs() public string[] GetAllIDs() Returns string[] GripObject(string) Grip an object by its ID. If the ID is not registered in the collection, the function aborts. public void GripObject(string id) Parameters id string ReleaseObject() Release the currently gripped object. public void ReleaseObject()"
+  },
+  "api/URVisualization.ObjectSpawner.html": {
+    "href": "api/URVisualization.ObjectSpawner.html",
+    "title": "Class ObjectSpawner | UR Visualization",
+    "keywords": "Class ObjectSpawner Namespace URVisualization public class ObjectSpawner : MonoBehaviour Inheritance object ObjectSpawner Fields list public ObjectList list Field Value ObjectList objectParent public Transform objectParent Field Value Transform"
+  },
+  "api/URVisualization.ROS.GripPublisher.html": {
+    "href": "api/URVisualization.ROS.GripPublisher.html",
+    "title": "Class GripPublisher | UR Visualization",
+    "keywords": "Class GripPublisher Namespace URVisualization.ROS public class GripPublisher : Publisher<StringMsg> Inheritance object Publisher<StringMsg> GripPublisher Inherited Members Publisher<StringMsg>.isPublish Publisher<StringMsg>.debugPublish Publisher<StringMsg>.publishMessageFrequency Publisher<StringMsg>.Publish() Fields id public string id Field Value string isGrip public bool isGrip Field Value bool Methods PrepareMessage() protected override StringMsg PrepareMessage() Returns StringMsg"
+  },
+  "api/URVisualization.ROS.GripSubscriber.html": {
+    "href": "api/URVisualization.ROS.GripSubscriber.html",
+    "title": "Class GripSubscriber | UR Visualization",
+    "keywords": "Class GripSubscriber Namespace URVisualization.ROS public class GripSubscriber : Subscriber<StringMsg> Inheritance object Subscriber<StringMsg> GripSubscriber Inherited Members Subscriber<StringMsg>.topic Subscriber<StringMsg>.debugSubscribe Subscriber<StringMsg>.messageReceived"
+  },
+  "api/URVisualization.ROS.Publisher-1.html": {
+    "href": "api/URVisualization.ROS.Publisher-1.html",
+    "title": "Class Publisher<T> | UR Visualization",
+    "keywords": "Class Publisher<T> Namespace URVisualization.ROS public abstract class Publisher<T> : MonoBehaviour where T : Message Type Parameters T Inheritance object Publisher<T> Derived GripPublisher RobotiqPublisher URPublisher Fields debugPublish public bool debugPublish Field Value bool isPublish public bool isPublish Field Value bool publishMessageFrequency Publish messages every N seconds public float publishMessageFrequency Field Value float Methods PrepareMessage() protected abstract T PrepareMessage() Returns T Publish() public void Publish()"
+  },
+  "api/URVisualization.ROS.RobotiqPublisher.html": {
+    "href": "api/URVisualization.ROS.RobotiqPublisher.html",
+    "title": "Class RobotiqPublisher | UR Visualization",
+    "keywords": "Class RobotiqPublisher Namespace URVisualization.ROS public class RobotiqPublisher : Publisher<JointStateMsg> Inheritance object Publisher<JointStateMsg> RobotiqPublisher Inherited Members Publisher<JointStateMsg>.isPublish Publisher<JointStateMsg>.debugPublish Publisher<JointStateMsg>.publishMessageFrequency Publisher<JointStateMsg>.Publish() Fields grip public double grip Field Value double gripperName public string gripperName Field Value string Methods PrepareMessage() protected override JointStateMsg PrepareMessage() Returns JointStateMsg"
+  },
+  "api/URVisualization.ROS.RobotiqSubscriber.html": {
+    "href": "api/URVisualization.ROS.RobotiqSubscriber.html",
+    "title": "Class RobotiqSubscriber | UR Visualization",
+    "keywords": "Class RobotiqSubscriber Namespace URVisualization.ROS public class RobotiqSubscriber : Subscriber<JointStateMsg> Inheritance object Subscriber<JointStateMsg> RobotiqSubscriber Inherited Members Subscriber<JointStateMsg>.topic Subscriber<JointStateMsg>.debugSubscribe Subscriber<JointStateMsg>.messageReceived"
+  },
+  "api/URVisualization.ROS.Subscriber-1.html": {
+    "href": "api/URVisualization.ROS.Subscriber-1.html",
+    "title": "Class Subscriber<T> | UR Visualization",
+    "keywords": "Class Subscriber<T> Namespace URVisualization.ROS The Subscriber is used to subscribe to a ROS topic at the ROS-TCP endpoint node (running on another machine). The message received event is subscribed by Controller classes and the message will be then passed to them for processing. public abstract class Subscriber<T> : MonoBehaviour where T : Message Type Parameters T The Subscriber is used to subscribe to a ROS topic at the ROS-TCP endpoint node (running on another machine). The message received event is subscribed by Controller classes and the message will be then passed to them for processing. Inheritance object Subscriber<T> Derived GripSubscriber RobotiqSubscriber URSubscriber Fields debugSubscribe Whether received messages are printed in the console. public bool debugSubscribe Field Value bool messageReceived Event subscribed by Controller class. When a ROS message is received, this event will be invoked. public Action<T> messageReceived Field Value Action<T> topic Topic name for UR joint messages. public string topic Field Value string"
+  },
+  "api/URVisualization.ROS.URPublisher.html": {
+    "href": "api/URVisualization.ROS.URPublisher.html",
+    "title": "Class URPublisher | UR Visualization",
+    "keywords": "Class URPublisher Namespace URVisualization.ROS public class URPublisher : Publisher<JointStateMsg> Inheritance object Publisher<JointStateMsg> URPublisher Inherited Members Publisher<JointStateMsg>.isPublish Publisher<JointStateMsg>.debugPublish Publisher<JointStateMsg>.publishMessageFrequency Publisher<JointStateMsg>.Publish() Fields jointAngles public double[] jointAngles Field Value double[] jointNames public string[] jointNames Field Value string[] Methods PrepareMessage() protected override JointStateMsg PrepareMessage() Returns JointStateMsg"
+  },
+  "api/URVisualization.ROS.URSubscriber.html": {
+    "href": "api/URVisualization.ROS.URSubscriber.html",
+    "title": "Class URSubscriber | UR Visualization",
+    "keywords": "Class URSubscriber Namespace URVisualization.ROS public class URSubscriber : Subscriber<JointStateMsg> Inheritance object Subscriber<JointStateMsg> URSubscriber Inherited Members Subscriber<JointStateMsg>.topic Subscriber<JointStateMsg>.debugSubscribe Subscriber<JointStateMsg>.messageReceived"
+  },
+  "api/URVisualization.ROS.html": {
+    "href": "api/URVisualization.ROS.html",
+    "title": "Namespace URVisualization.ROS | UR Visualization",
+    "keywords": "Namespace URVisualization.ROS Classes GripPublisher GripSubscriber Publisher<T> RobotiqPublisher RobotiqSubscriber Subscriber<T> The Subscriber is used to subscribe to a ROS topic at the ROS-TCP endpoint node (running on another machine). The message received event is subscribed by Controller classes and the message will be then passed to them for processing. URPublisher URSubscriber"
+  },
+  "api/URVisualization.ROSPublisher.html": {
+    "href": "api/URVisualization.ROSPublisher.html",
+    "title": "Class ROSPublisher | UR Visualization",
+    "keywords": "Class ROSPublisher Namespace URVisualization public class ROSPublisher : MonoBehaviour Inheritance object ROSPublisher Fields debugPublish public bool debugPublish Field Value bool isPublish public bool isPublish Field Value bool jointNames public string[] jointNames Field Value string[] publishMessageFrequency public float publishMessageFrequency Field Value float robotiqController public RobotiqController robotiqController Field Value RobotiqController urController public URForwardController urController Field Value URForwardController"
+  },
+  "api/URVisualization.RobotiqController.html": {
+    "href": "api/URVisualization.RobotiqController.html",
+    "title": "Class RobotiqController | UR Visualization",
+    "keywords": "Class RobotiqController Namespace URVisualization public class RobotiqController : Controller<JointStateMsg> Inheritance object Controller<JointStateMsg> RobotiqController Inherited Members Controller<JointStateMsg>.joints Controller<JointStateMsg>.articulationChain Controller<JointStateMsg>.subscriber Controller<JointStateMsg>.driveType Controller<JointStateMsg>.control Controller<JointStateMsg>.stiffness Controller<JointStateMsg>.damping Controller<JointStateMsg>.forceLimit Controller<JointStateMsg>.speed Controller<JointStateMsg>.torque Controller<JointStateMsg>.acceleration Methods OnMessageReceived(JointStateMsg) protected override void OnMessageReceived(JointStateMsg message) Parameters message JointStateMsg SetGrip(float) public void SetGrip(float grip) Parameters grip float"
+  },
+  "api/URVisualization.RosSubscriber.html": {
+    "href": "api/URVisualization.RosSubscriber.html",
+    "title": "Class ROSSubscriber | UR Visualization",
+    "keywords": "Class ROSSubscriber Namespace URVisualization The ROSSubscriber is used to subscribe to the ROS topics at the ROS-TCP endpoint node (running on another machine). The received messages are then used to update the joint angles and the grip value in designated URController and RobotiqController. public class ROSSubscriber : MonoBehaviour Inheritance object ROSSubscriber Fields debugSubscribe Whether received messages are printed in the console. public bool debugSubscribe Field Value bool gripperTopic Topic name for Robotiq gripper messages. public string gripperTopic Field Value string robotiqController Target RobotiqController to which the received grip value is sent. public RobotiqController robotiqController Field Value RobotiqController urController Target URController to which the received joint angles are sent. public URController urController Field Value URController urTopic Topic name for UR joint messages. public string urTopic Field Value string"
+  },
+  "api/URVisualization.UI.CameraControlButton.html": {
+    "href": "api/URVisualization.UI.CameraControlButton.html",
+    "title": "Class CameraControlButton | UR Visualization",
+    "keywords": "Class CameraControlButton Namespace URVisualization.UI public class CameraControlButton : MonoBehaviour, IPointerDownHandler, IPointerUpHandler Inheritance object CameraControlButton Implements IPointerDownHandler IPointerUpHandler Fields controlType public CameraControlType controlType Field Value CameraControlType isPressed public bool isPressed Field Value bool Methods OnPointerDown(PointerEventData) public void OnPointerDown(PointerEventData eventData) Parameters eventData PointerEventData OnPointerUp(PointerEventData) public void OnPointerUp(PointerEventData eventData) Parameters eventData PointerEventData"
+  },
+  "api/URVisualization.UI.CameraControlType.html": {
+    "href": "api/URVisualization.UI.CameraControlType.html",
+    "title": "Enum CameraControlType | UR Visualization",
+    "keywords": "Enum CameraControlType Namespace URVisualization.UI public enum CameraControlType Fields Down = 1 Left = 2 Right = 3 Up = 0 ZoomIn = 4 ZoomOut = 5"
+  },
+  "api/URVisualization.UI.CameraController.html": {
+    "href": "api/URVisualization.UI.CameraController.html",
+    "title": "Class CameraController | UR Visualization",
+    "keywords": "Class CameraController Namespace URVisualization.UI public class CameraController : MonoBehaviour Inheritance object CameraController Fields cameraControlButtons public CameraControlButton[] cameraControlButtons Field Value CameraControlButton[] cameras public Camera[] cameras Field Value Camera[] rotateSpeed public float rotateSpeed Field Value float zoomSpeed public float zoomSpeed Field Value float"
+  },
+  "api/URVisualization.UI.GripperSlider.html": {
+    "href": "api/URVisualization.UI.GripperSlider.html",
+    "title": "Class GripperSlider | UR Visualization",
+    "keywords": "Class GripperSlider Namespace URVisualization.UI public class GripperSlider : MonoBehaviour Inheritance object GripperSlider Fields robotiqController public RobotiqController robotiqController Field Value RobotiqController"
+  },
+  "api/URVisualization.UI.html": {
+    "href": "api/URVisualization.UI.html",
+    "title": "Namespace URVisualization.UI | UR Visualization",
+    "keywords": "Namespace URVisualization.UI Classes CameraControlButton CameraController Enums CameraControlType"
+  },
+  "api/URVisualization.URController.html": {
+    "href": "api/URVisualization.URController.html",
+    "title": "Class URController | UR Visualization",
+    "keywords": "Class URController Namespace URVisualization URController is inherited from the Controller class public class URController : Controller<JointStateMsg> Inheritance object Controller<JointStateMsg> URController Inherited Members Controller<JointStateMsg>.joints Controller<JointStateMsg>.articulationChain Controller<JointStateMsg>.subscriber Controller<JointStateMsg>.driveType Controller<JointStateMsg>.control Controller<JointStateMsg>.stiffness Controller<JointStateMsg>.damping Controller<JointStateMsg>.forceLimit Controller<JointStateMsg>.speed Controller<JointStateMsg>.torque Controller<JointStateMsg>.acceleration Methods OnMessageReceived(JointStateMsg) protected override void OnMessageReceived(JointStateMsg message) Parameters message JointStateMsg SetJointAngles(double[]) public void SetJointAngles(double[] jointAngles) Parameters jointAngles double[]"
+  },
+  "api/URVisualization.URForwardController.html": {
+    "href": "api/URVisualization.URForwardController.html",
+    "title": "Class URForwardController | UR Visualization",
+    "keywords": "Class URForwardController Namespace URVisualization public class URForwardController : MonoBehaviour Inheritance object URForwardController Fields articulationChain public ArticulationBody[] articulationChain Field Value ArticulationBody[] damping public float damping Field Value float forceLimit public float forceLimit Field Value float isSolutionOverriden public bool isSolutionOverriden Field Value bool joints public List<ArticulationBody> joints Field Value List<ArticulationBody> sliders public Slider[] sliders Field Value Slider[] solution public int solution Field Value int stiffness public float stiffness Field Value float thetas public double[] thetas Field Value double[]"
+  },
+  "api/URVisualization.URKinematics.html": {
+    "href": "api/URVisualization.URKinematics.html",
+    "title": "Class URKinematics | UR Visualization",
+    "keywords": "Class URKinematics Namespace URVisualization public static class URKinematics Inheritance object URKinematics Methods ComputeFK(double[], out double[], out double[]) public static void ComputeFK(double[] j, out double[] eetrans, out double[] eerot) Parameters j double[] eetrans double[] eerot double[] ComputeIK(double[], double[], double[], out List<double[]>) public static bool ComputeIK(double[] eetrans, double[] eerot, double[] pfree, out List<double[]> solutions) Parameters eetrans double[] eerot double[] pfree double[] solutions List<double[]> Returns bool Forward(double[], ref double[]) public static void Forward(double[] q, ref double[] T) Parameters q double[] T double[] ForwardAll(double[], ref double[], ref double[], ref double[], ref double[], ref double[], ref double[]) public static void ForwardAll(double[] q, ref double[] T1, ref double[] T2, ref double[] T3, ref double[] T4, ref double[] T5, ref double[] T6) Parameters q double[] T1 double[] T2 double[] T3 double[] T4 double[] T5 double[] T6 double[] FromMat44(double[], ref double[], ref double[]) public static void FromMat44(double[] mat4_4, ref double[] eetrans, ref double[] eerot) Parameters mat4_4 double[] eetrans double[] eerot double[] Inverse(double[], ref double[], double) public static int Inverse(double[] T, ref double[] q_sols, double q6_des = 0) Parameters T double[] q_sols double[] q6_des double Returns int Main(Transform, Transform) public static List<double[]> Main(Transform target, Transform ur) Parameters target Transform ur Transform Returns List<double[]> SetModel(URModel) public static void SetModel(URModel model) Parameters model URModel ToMat44(ref double[], double[], double[]) public static void ToMat44(ref double[] mat4_4, double[] eetrans, double[] eerot) Parameters mat4_4 double[] eetrans double[] eerot double[]"
+  },
+  "api/URVisualization.URModel.html": {
+    "href": "api/URVisualization.URModel.html",
+    "title": "Enum URModel | UR Visualization",
+    "keywords": "Enum URModel Namespace URVisualization public enum URModel Fields UR10 = 0 UR3 = 2 UR5 = 1"
+  },
+  "api/URVisualization.html": {
+    "href": "api/URVisualization.html",
+    "title": "Namespace URVisualization | UR Visualization",
+    "keywords": "Namespace URVisualization Classes Controller<T> Custom Controller class replace the Controller class in UrdfImporter.Control. It is for initializing the joints as ArticulationBodies. This script should be attached to the root of an articulated robot. Object ObjectData ObjectList ObjectManager Manages things about the objects. It is a singleton so it can be accessed globally. RobotiqController URController URController is inherited from the Controller class"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "UR Visualization | UR Visualization",
+    "keywords": "UR Visualization This project is designed, as the name suggests, to visualize the movement of an UR robotic arm with a Robotiq 2f-85 gripper. It is also capable of visualizing the gripped objects according to the received messages."
+  },
+  "manual/getting-started.html": {
+    "href": "manual/getting-started.html",
+    "title": "Getting Started | UR Visualization",
+    "keywords": "Getting Started Before clicking on the play button of our Unity Editor, we need to setup a few things. Get the Unity Editor Unity Editor version 2022.3.15f1 was used to create the project. To avoid potential compatibility issues, using this exact version is recommended. Later versions should be ok but are not tested. Set the ROS-TCP Endpoint up First of all, we need to establish a connection between the Unity Editor and the ROS which is in charge of controlling the physical robot. Follow these steps to setup a running ROS-TCP endpoint node with which our Unity Editor will later connect. Set the Objects in the Scene In the project folder, go to Assets/Data, there is a scriptable object called Object List . Select the file in the Unity Editor, and edit its List attribute in the inspector window. It should contain all the objects that are expected to show up in the scene, with their Model, initial Pose, and an unique ID. Model: The model (mesh) of the object. In Unity, there are only a small range of formats are supported (only .fbx, .dae, .dxf and .obj. See here for details.). For any other formats, the model should first be converted to one of the above-mentioned formats (for instance, .stl can be converted here). Pose: The initial pose contains the position and rotation of the object when they are spawned in the scene. ID: The unique ID for identifying the object. Uniqueness is important. It must be set accordingly, so that when a \"grip\" event happens, the correct object can be gripped in the scene. Empty ID is also NOT allowed. ROS Settings in Unity Editor Before running the project, we have to check if the ROS-related configuration is correct. In the Unity Editor, go to Robotics/ROS Settings. Make sure the Protocol is set to \"ROS2\" and ROS IP Address and `ROS Port are set according to the ROS with which we want to talk. Run the Project Now the project should be ready to run! Click the play button, and the tiny arrows in the HUD on the top-left should turn blue in a few seconds. If they remain red, please check if the ROS-TCP endpoint is correctly set up and if the ROS settings in Unity are correctly set. If the arrows turn blue, it means that the ROS and Unity are actively talking. Play with the control panel to see how it works."
+  },
+  "manual/howtos.html": {
+    "href": "manual/howtos.html",
+    "title": "HowTos | UR Visualization",
+    "keywords": "HowTos Update UR Robotic Arm Posture The visualized UR robot subscribes to the JointStateMsg in topic ur_joints. The topic name can be changed in the Editor. Each JointStateMsg contains angles of all the 6 joints of the physical UR. To construct JointStateMsg, only the position field is required. The position field contains a double array of length 6, filled with the ordered joint angles. The order is: shoulder_link, upper_arm_link, forearm_link, wrist_1_link, wrist_2_link, wrist_3_link. Message construction example: new JointStateMsg(new HeaderMsg(), **jointNames**, // joint names (optional) new double[] {**angle 1**, **angle 2**, **angle 3**, **angle 4**, **angle 5**, **angle 6**}, // joint angles (mandatory) new double[0], // velocity (not used) new double[0] // effort (not used) ); Update Robotiq Gripper Openness The visualized Robotiq gripper subscribes to the JointStateMsg in topic robotiq_grip. The topic name can be changed in the Editor. Each JointStateMsg contains one double number, ranged from 0 to 1, indicating the openness of the gripper (0: fully open; 1: fully closed). This value is changing linearly with respect to the gripper finger angle change. To construct JointStateMsg, only the position field is required. The openness value is stored in the first element of the position array. Message construction example: new JointStateMsg(new HeaderMsg(), **gripperName**, // gripper name (optional) new double[] { **openness** }, // openness value (mandatory) new double[0], // velocity (not used) new double[0] // effort (not used) ); Update Gripped Object To grip objects in the visualization, StringMsg is subscribed in topic object_grip. The topic name can be changed in the Editor. Each StringMsg contains the string indicating which object to attach and whether the object is gripped or released. The message contains two parts: the first character, either 't' or 'f', represents true or false. true means the object should be gripped and false means the object should be released. The rest of the data (substring from the second character) contains the object ID for identifying which object to manipulate (see details here). Message construction example: // if the object should be gripped new StringMsg('t' + **object ID**); // if the object should be released new StringMsg('f' + **object ID**);"
+  },
+  "manual/introduction.html": {
+    "href": "manual/introduction.html",
+    "title": "Introduction | UR Visualization",
+    "keywords": "Introduction This project is designed, as the name suggests, to visualize the movement of an UR robotic arm with a Robotiq 2f-85 gripper. It is also capable of visualizing the gripped objects according to the received messages. The current version provides a tester panel, which allows user to set data manually and publishes the data to the designated ROS topic, in the absence of the presence of a real UR robot."
+  }
+}

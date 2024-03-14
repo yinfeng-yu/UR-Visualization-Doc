@@ -1,0 +1,728 @@
+{
+  "source_base_path": "D:/projects/work/unity/UR-Visualization/UR Visualization/Documentation",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.AdjustTimeScale.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.AdjustTimeScale.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.AnySerializableDictionaryPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.AnySerializableDictionaryPropertyDrawer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.AnySerializableDictionaryStoragePropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.AnySerializableDictionaryStoragePropertyDrawer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.ColorArrayStorage.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.ColorArrayStorage.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.MyClass.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.MyClass.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.ObjectColorDictionary.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.ObjectColorDictionary.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.ProximityActivate.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.ProximityActivate.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.QuaternionMyClassDictionary.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.QuaternionMyClassDictionary.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.RampAsset.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.RampAsset.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.RampAssetEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.RampAssetEditor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.Readme.Section.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.Readme.Section.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.Readme.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.Readme.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.ReadmeEditor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.ReadmeEditor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.SerializableDictionary-2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.SerializableDictionary-2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.SerializableDictionary-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.SerializableDictionary-3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.SerializableDictionary.Storage-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.SerializableDictionary.Storage-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.SerializableDictionary.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.SerializableDictionary.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.SerializableDictionaryBase-3.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.SerializableDictionaryBase-3.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.SerializableDictionaryExample.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.SerializableDictionaryExample.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.SerializableDictionaryPropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.SerializableDictionaryPropertyDrawer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.SerializableDictionaryStoragePropertyDrawer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.SerializableDictionaryStoragePropertyDrawer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.SimpleCharacterMotor.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.SimpleCharacterMotor.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.Singleton-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.Singleton-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.SpawnEffect.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.SpawnEffect.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.StringColorArrayDictionary.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.StringColorArrayDictionary.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.StringStringDictionary.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.StringStringDictionary.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.Tester.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.Tester.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.Utility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.Utility.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/Global.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/Global.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.Controller-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.Controller-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.Controller.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.Controller.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.GripperSlider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.GripperSlider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.IKController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.IKController.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.Object.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.Object.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.ObjectData.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.ObjectData.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.ObjectDictionary.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.ObjectDictionary.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.ObjectGripManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.ObjectGripManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.ObjectList.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.ObjectList.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.ObjectManager.ObjectDictionary.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.ObjectManager.ObjectDictionary.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.ObjectManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.ObjectManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.ObjectSpawner.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.ObjectSpawner.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.ROS.GripPublisher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.ROS.GripPublisher.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.ROS.GripSubscriber.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.ROS.GripSubscriber.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.ROS.Publisher-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.ROS.Publisher-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.ROS.RobotiqPublisher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.ROS.RobotiqPublisher.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.ROS.RobotiqSubscriber.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.ROS.RobotiqSubscriber.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.ROS.Subscriber-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.ROS.Subscriber-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.ROS.URPublisher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.ROS.URPublisher.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.ROS.URSubscriber.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.ROS.URSubscriber.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.ROS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.ROS.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.ROSPublisher.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.ROSPublisher.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.RobotiqController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.RobotiqController.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.RosSubscriber.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.RosSubscriber.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.UI.CameraControlButton.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.UI.CameraControlButton.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.UI.CameraControlType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.UI.CameraControlType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.UI.CameraController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.UI.CameraController.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.UI.GripperSlider.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.UI.GripperSlider.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.UI.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.UI.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.URController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.URController.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.URForwardController.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.URForwardController.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.URKinematics.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.URKinematics.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.URModel.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.URModel.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/URVisualization.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/URVisualization.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/howtos.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/howtos.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "manual/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "manual/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "manual/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "manual/toc.html"
+        },
+        ".json": {
+          "relative_path": "manual/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

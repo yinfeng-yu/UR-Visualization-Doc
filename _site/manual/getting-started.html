@@ -1,0 +1,134 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <title>Getting Started | UR Visualization </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="title" content="Getting Started | UR Visualization ">
+      
+      
+      <link rel="icon" href="../favicon.ico">
+      <link rel="stylesheet" href="../public/docfx.min.css">
+      <link rel="stylesheet" href="../public/main.css">
+      <meta name="docfx:navrel" content="../toc.html">
+      <meta name="docfx:tocrel" content="toc.html">
+      
+      <meta name="docfx:rel" content="../">
+      
+      
+      <meta name="docfx:docurl" content="https://github.com/yinfeng-yu/UR-Visualization/blob/main/UR Visualization/Documentation/manual/getting-started.md/#L1">
+      <meta name="loc:inThisArticle" content="In this article">
+      <meta name="loc:searchResultsCount" content="{count} results for &quot;{query}&quot;">
+      <meta name="loc:searchNoResults" content="No results for &quot;{query}&quot;">
+      <meta name="loc:tocFilter" content="Filter by title">
+      <meta name="loc:nextArticle" content="Next">
+      <meta name="loc:prevArticle" content="Previous">
+      <meta name="loc:themeLight" content="Light">
+      <meta name="loc:themeDark" content="Dark">
+      <meta name="loc:themeAuto" content="Auto">
+      <meta name="loc:changeTheme" content="Change theme">
+      <meta name="loc:copy" content="Copy">
+      <meta name="loc:downloadPdf" content="Download PDF">
+  </head>
+
+  <script type="module" src="./../public/docfx.min.js"></script>
+
+  <script>
+    const theme = localStorage.getItem('theme') || 'auto'
+    document.documentElement.setAttribute('data-bs-theme', theme === 'auto' ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : theme)
+  </script>
+
+
+  <body class="tex2jax_ignore" data-layout="" data-yaml-mime="">
+    <header class="bg-body border-bottom">
+      <nav id="autocollapse" class="navbar navbar-expand-md" role="navigation">
+        <div class="container-xxl flex-nowrap">
+          <a class="navbar-brand" href="../index.html">
+            <img id="logo" class="svg" src="../logo.svg" alt="UR Visualization">
+            UR Visualization
+          </a>
+          <button class="btn btn-lg d-md-none border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navpanel" aria-controls="navpanel" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="bi bi-three-dots"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="navpanel">
+            <div id="navbar">
+              <form class="search" role="search" id="search">
+                <i class="bi bi-search"></i>
+                <input class="form-control" id="search-query" type="search" disabled="" placeholder="Search" autocomplete="off" aria-label="Search">
+              </form>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main class="container-xxl">
+      <div class="toc-offcanvas">
+        <div class="offcanvas-md offcanvas-start" tabindex="-1" id="tocOffcanvas" aria-labelledby="tocOffcanvasLabel">
+          <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="tocOffcanvasLabel">Table of Contents</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tocOffcanvas" aria-label="Close"></button>
+          </div>
+          <div class="offcanvas-body">
+            <nav class="toc" id="toc"></nav>
+          </div>
+        </div>
+      </div>
+
+      <div class="content">
+        <div class="actionbar">
+          <button class="btn btn-lg border-0 d-md-none" style="margin-top: -.65em; margin-left: -.8em" type="button" data-bs-toggle="offcanvas" data-bs-target="#tocOffcanvas" aria-controls="tocOffcanvas" aria-expanded="false" aria-label="Show table of contents">
+            <i class="bi bi-list"></i>
+          </button>
+
+          <nav id="breadcrumb"></nav>
+        </div>
+
+        <article data-uid="">
+<h1 id="getting-started">Getting Started</h1>
+
+<p>Before clicking on the play button of our Unity Editor, we need to setup a few things.</p>
+<h4 id="get-the-unity-editor">Get the Unity Editor</h4>
+<p>Unity Editor version <strong>2022.3.15f1</strong> was used to create the project. To avoid potential compatibility issues, using this exact version is recommended. Later versions should be ok but are not tested.</p>
+<h4 id="set-the-ros-tcp-endpoint-up">Set the ROS-TCP Endpoint up</h4>
+<p>First of all, we need to establish a connection between the Unity Editor and the ROS which is in charge of controlling the physical robot.</p>
+<p>Follow <a href="https://github.com/Unity-Technologies/Unity-Robotics-Hub/blob/main/tutorials/ros_unity_integration/setup.md">these steps</a> to setup a running ROS-TCP endpoint node with which our Unity Editor will later connect.</p>
+<h4 id="set-the-objects-in-the-scene">Set the Objects in the Scene</h4>
+<p>In the project folder, go to <code>Assets/Data</code>, there is a scriptable object called <u><code>Object List</code></u>. Select the file in the Unity Editor, and edit its <code>List</code> attribute in the inspector window. It should contain all the objects that are expected to show up in the scene, with their <code>Model</code>, initial <code>Pose</code>, and an unique <code>ID</code>.</p>
+<ul>
+<li><code>Model</code>: The model (mesh) of the object. In Unity, there are only a small range of formats are supported (only <code>.fbx</code>, <code>.dae</code>, <code>.dxf</code> and <code>.obj</code>. <a href="https://docs.unity3d.com/Manual/3D-formats.html">See here for details.</a>). For any other formats, the model should first be converted to one of the above-mentioned formats (for instance, <code>.stl</code> can be converted <a href="https://www.greentoken.de/onlineconv/">here</a>).</li>
+<li><code>Pose</code>: The initial pose contains the position and rotation of the object when they are spawned in the scene.</li>
+<li><code>ID</code>: The unique ID for identifying the object. Uniqueness is important. It must be set accordingly, so that when a &quot;grip&quot; event happens, the correct object can be gripped in the scene. Empty ID is also NOT allowed.</li>
+</ul>
+<h4 id="ros-settings-in-unity-editor">ROS Settings in Unity Editor</h4>
+<p>Before running the project, we have to check if the ROS-related configuration is correct. In the Unity Editor, go to <code>Robotics/ROS Settings</code>. Make sure the <code>Protocol</code> is set to &quot;ROS2&quot; and <code>ROS IP Address</code> and `ROS Port are set according to the ROS with which we want to talk.</p>
+<h4 id="run-the-project">Run the Project</h4>
+<p>Now the project should be ready to run! Click the play button, and the tiny arrows in the HUD on the top-left should turn blue in a few seconds. If they remain red, please check if the ROS-TCP endpoint is correctly set up and if the ROS settings in Unity are correctly set.</p>
+<p>If the arrows turn blue, it means that the ROS and Unity are actively talking. Play with the control panel to see how it works.</p>
+
+</article>
+
+        <div class="contribution d-print-none">
+          <a href="https://github.com/yinfeng-yu/UR-Visualization/blob/main/UR Visualization/Documentation/manual/getting-started.md/#L1" class="edit-link">Edit this page</a>
+        </div>
+
+        <div class="next-article d-print-none border-top" id="nextArticle"></div>
+
+      </div>
+
+      <div class="affix">
+        <nav id="affix"></nav>
+      </div>
+    </main>
+
+    <div class="container-xxl search-results" id="search-results"></div>
+
+    <footer class="border-top text-secondary">
+      <div class="container-xxl">
+        <div class="flex-fill">
+          <span>Made with <a href="https://dotnet.github.io/docfx">docfx</a></span>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
